@@ -18,7 +18,7 @@ Bir LeoTun hesabında altı bağlantı yöntemi vardır: Özel ağ (Tailscale), 
 - Sık kopan genişbant, zayıf Wi‑Fi sinyali: Web Proxy. İstek bazında çalışır, sürekli açık bir bağlantısı yoktur; yani tasarımı gereği kopacak bir bağlantı da yoktur.
 - Eski yerleşim sitelerindeki genişbant, mobil veri, yüksek paket kaybı: Hiddify. Protokolü paket kaybına dayanacak şekilde tasarlanmıştır ve bu tür ağlarda en iyi hızı verir.
 - Bilgisayar zaten bir şirket VPN'ine bağlı: Web Proxy. Tüm cihazı kapsayan iki VPN birlikte çalışınca ağ ayarları için çakışır; Web Proxy yalnızca tarayıcıyla ilgilenir, bu yüzden birbirlerine karışmazlar.
-- China Mobile, Great Wall ve diğer genişbantlar ya da sürekli istikrarsız sınır ötesi bağlantılar: Herhangi bir yöntem, Çin bölgesindeki bir giriş noktasıyla. İstemci yalnızca Çin içindeki bir adrese bağlanır, sınır ötesi kısmı biz üstleniriz; bu yüzden sınır ötesi müdahaleden etkilenmez.
+- China Mobile, Great Wall ve diğer genişbantlar ya da sürekli istikrarsız sınır ötesi bağlantılar: Herhangi bir yöntem, Çin bölgesindeki bir giriş noktasıyla. Bu ağlarda genellikle en kararlı seçenektir.
 
 ## Amaca göre: ne yapmak istiyorsunuz
 

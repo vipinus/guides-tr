@@ -10,7 +10,7 @@ Aynı hizmet ve aynı protokolle bile bölgeler arasında hız birkaç kat fark 
 |---|---|---|
 | Kuzeyde China Unicom | Japonya, Güney Kore | Unicom'un Japonya ve Güney Kore'ye çıkışı genellikle en doğrudan olanıdır |
 | Güneyde China Telecom | Güneydoğu Asya (Singapur), Avustralya | Telecom'un güneye çıkışı iyidir |
-| China Mobile, Great Wall Broadband ve benzerleri | Çin girişi | İstemci yalnızca Çin içindeki bir adrese bağlanır, sınır ötesi kısmı biz üstleniriz; bu yüzden sınır ötesi müdahaleden etkilenmez |
+| China Mobile, Great Wall Broadband ve benzerleri | Çin girişi | Bu ağlarda genellikle en kararlısıdır |
 | Mobil veri | Operatöre göre değişir; genişbanttan ayrı test edin | Aynı telefonda Wi‑Fi'de ve mobil veride en iyi bölge çoğu zaman farklıdır |
 
 LeoTun'un bölge listesi her bölgenin anlık yükünü **kırmızı, sarı ve yeşil ışıklarla** gösterir; birkaç Japonya girişi arasından yeşil ışıklı olanı seçin.
