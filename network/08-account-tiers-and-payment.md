@@ -75,7 +75,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - Puan yükleme: 8 $'a 25 puan; bir seferde 25–150 puan arasında seçebilirsiniz. Puanların süresi dolmaz.
 - Günlük tüketim: Bireysel günde 1 puan, Aile 2 puan, Kurumsal 4 puan. Bireysel planda bir gün yaklaşık 0,32 $'dır.
 - Puanlarla aylık (30 gün sayılır) ya da yıllık (365 gün sayılır) yenileme de yapılabilir, ama puanla alımda indirim yoktur.
-- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 12 günden fazla kullanıyorsanız aylık abone olmalısınız.
+- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 15 günden fazla kullanıyorsanız aylık abone olmalısınız.
 
 ## Ücretsiz deneme ve davet ödülü: her planda eşdeğer
 
@@ -93,7 +93,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 - Süre dolmadan önceki 24 saat içinde "Hizmet sona ermek üzere" hatırlatma e-postası alırsınız.
 - Süre dolduktan sonra hiçbir bağlantı yöntemi bağlanmaz; Özel ağdaki cihazlar birkaç dakika içinde çevrim dışı olur ve Hiddify QR kodu ancak yeniledikten sonra yeniden oluşturulabilir.
-- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" e-postası alırsınız; koşulları sağlayanlar için içinde giriş gerektirmeyen ve planınıza göre 24 / 12 / 6 saat veren bir düğme bulunur; bağlantı 7 gün geçerlidir ve yalnızca bir kez tıklanabilir.
+- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" e-postası alırsınız; koşulları sağlayanlar için içinde giriş gerektirmeyen ve planınıza göre 4 / 2 / 1 saat veren bir düğme bulunur; bağlantı 7 gün geçerlidir ve yalnızca bir kez tıklanabilir.
 - Yeniledikten sonra hizmet doğrudan geri gelir; Özel ağ cihazlarında yalnızca bir kez daha giriş'e tıklamak yeterlidir, çıkış ayarı korunur.
 
 ## SSS
