@@ -50,4 +50,4 @@ API'yi komut satırı araçlarıyla ya da kodla çağırıyorsanız bu programla
 Şirket sırlarını, müşteri verilerini ya da yayımlanmamış kodu bu hizmetlere yapıştırmayın. Bunun hangi hattı kullandığınızla ilgisi yoktur — içerik bir kez gönderildiğinde karşı tarafın sunucularındadır.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

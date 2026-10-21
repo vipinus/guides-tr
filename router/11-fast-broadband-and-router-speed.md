@@ -39,15 +39,15 @@ TV'yi ve masaüstü bilgisayarı mümkün olan her yerde kabloyla bağlayın. Ka
 
 ## Satın almadan önce nasıl anlarsınız
 
-Kaydolun ve 24 saatlik ücretsiz denemeyi alın, kredi kartı gerekmez. En çok kullandığınız saatte, örneğin akşam bağlanın ve YouTube'da HD bir video izleyin. Telefonda ya da dizüstünde gördüğünüz, router'ın size vereceğine yakındır. Router kararını ondan sonra verin.
+Kaydolun ve 4 saatlik ücretsiz denemeyi alın, kredi kartı gerekmez. En çok kullandığınız saatte, örneğin akşam bağlanın ve YouTube'da HD bir video izleyin. Telefonda ya da dizüstünde gördüğünüz, router'ın size vereceğine yakındır. Router kararını ondan sonra verin.
 
 ## SSS
 
-**Neden bana kaç megabit olduğunu doğrudan söylemiyorsunuz?** Çünkü bu sayı her kişi ve her saat için farklıdır. Genişbandınız iyiyse akşam yoğun saatinde bile YouTube'un takılmadan oynayacağını taahhüt ediyoruz: kuzeyde China Unicom ya da güneyde China Telecom. Site ya da apartman genelinde paylaşılan toplu genişbant bunun istisnasıdır. 24 saatlik ücretsiz denemeyi alıp kendiniz bir kez denemek en doğru testtir.
+**Neden bana kaç megabit olduğunu doğrudan söylemiyorsunuz?** Çünkü bu sayı her kişi ve her saat için farklıdır. Genişbandınız iyiyse akşam yoğun saatinde bile YouTube'un takılmadan oynayacağını taahhüt ediyoruz: kuzeyde China Unicom ya da güneyde China Telecom. Site ya da apartman genelinde paylaşılan toplu genişbant bunun istisnasıdır. 4 saatlik ücretsiz denemeyi alıp kendiniz bir kez denemek en doğru testtir.
 
 **Hız testi sitesi düşük bir sayı gösteriyor ama video sorunsuz oynuyor?** Bu normaldir. Hız testi sunucularının da kendi yoğun ve sakin anları vardır; bir dakika arayla yapılan iki test iki kat farklı çıkabilir. Gerçekte ne yapmak istiyorsanız ona göre değerlendirin.
 
 **Daha pahalı bir router daha hızlı yapar mı?** Yalnızca darboğaz router'sa, örneğin hızlı bir hatta mini model kullanılıyorsa. Darboğaz sınır ötesi bacaksa yeni bir router hiçbir şey değiştirmez, farklı bir bölge değiştirir.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

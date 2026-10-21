@@ -26,7 +26,7 @@ Sorun "ücretsiz" olması değil, maliyet yapısıdır. Anakara çıkış bant g
 
 Ücretsiz "Çin'e giden" tarayıcı eklentilerinin bir kör noktası daha vardır: Yalnızca tarayıcının web isteklerini proxy'den geçirirler; video oynatıcı, uygulamalar ve sistem DNS'i onlardan geçmez. "Web sayfası açılıyor ama video oynamıyor" durumunun bu kadar yaygın olmasının nedeni budur.
 
-Arada bir bir şeye bakmak için ücretsiz yeterlidir. Dizi takip etmek, müzik dinlemek ve internet bankacılığı için istikrarlı, ücretli bir hattın kazandırdığı zaman abonelik ücretinden çok daha değerlidir. Önce 24 saatlik denemeyi alın, bir kez akşam yoğun saatinde deneyin, sonra karar verin.
+Arada bir bir şeye bakmak için ücretsiz yeterlidir. Dizi takip etmek, müzik dinlemek ve internet bankacılığı için istikrarlı, ücretli bir hattın kazandırdığı zaman abonelik ücretinden çok daha değerlidir. Önce 4 saatlik denemeyi alın, bir kez akşam yoğun saatinde deneyin, sonra karar verin.
 
 ## Yurt dışındaki öğrenciler, gezginler ve aileler nasıl kurmalı
 
@@ -53,4 +53,4 @@ Arada bir bir şeye bakmak için ücretsiz yeterlidir. Dizi takip etmek, müzik 
 **Clash kullanabilir miyim?** Evet. LeoTun bir sing-box aboneliği, bir Clash aboneliği ve bir hysteria2 paylaşım bağlantısı sunar. Clash Meta, Clash Verge, FlClash, Stash ve benzerlerinde "Clash aboneliği" düğmesine tıklayıp adresi istemcinin abonelik listesine yapıştırın; abonelik dönüştürücüye gerek yoktur, paylaşım bağlantısını da kullanmayın. Orijinal Clash ve Clash for Windows kullanılamaz, çünkü çekirdeklerinde hysteria2 yoktur. Bu abonelik varsayılan olarak yerel ağınız dışındaki her şeyi düğümden geçirir; Çin videoları için hiçbir şeyi değiştirmeniz gerekmez. Kendi kurallarınızı eklerseniz Çin alan adlarını "direct" (doğrudan) yapmayın.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

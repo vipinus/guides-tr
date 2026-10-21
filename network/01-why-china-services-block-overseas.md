@@ -28,4 +28,4 @@ Sunucunun gördüğü IP'yi Çin anakarasına ait bir IP yapmak. Bunun için tra
 - [Bağlanmıyor, yavaş, kopuyor: kontrol listesi](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-01) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-01) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-01) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-01) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok

@@ -6,7 +6,7 @@ LeoTun hesapları üç plandan oluşur: Bireysel, Aile ve Kurumsal. Aralarındak
 
 | | Bireysel | Aile | Kurumsal |
 |---|---|---|---|
-| Aylık fiyat | 4 $ | 8 $ | 16 $ |
+| Aylık fiyat | 5 $ | 10 $ | 20 $ |
 | Fiyat katsayısı | 1x | 2x | 4x |
 | Aynı anda çevrim içi cihaz | 2 | 4 | 8 |
 | Bölgeler / trafik / bağlantı yöntemleri | Tümü / sınırsız / tümü | Aynı | Aynı |
@@ -47,14 +47,14 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 | Kurumsal | 3 aydan itibaren | 6 aydan itibaren | 12 aydan itibaren |
 
 - Aylık alımda bir seferde en fazla 12 ay, yıllık alımda bir seferde en fazla 4 yıl alınabilir. Aylık alım da bir eşiğe ulaşınca aynı indirimi alır, yani "yıllık"ı seçmek zorunda değilsiniz.
-- Birkaç gerçek rakam: Bireysel 12 ay 45,60 $, 4 yıl 153,60 $; Aile 6 ay 45,60 $, 2 yıl 153,60 $; Kurumsal 3 ay 45,60 $, 1 yıl 153,60 $.
+- Birkaç gerçek rakam: Bireysel 12 ay 57 $, 4 yıl 192 $; Aile 6 ay 57 $, 2 yıl 192 $; Kurumsal 3 ay 57 $, 1 yıl 192 $.
 - Yenilediğinizde geçerliliğiniz henüz dolmamışsa satın alınan süre asıl bitiş tarihinin sonrasına eklenir, kalan günlerinizden yemez.
 
 ## Ödeme yöntemleri
 
 | Yöntem | Notlar |
 |---|---|
-| Alipay | Ödeme RMB (Çin yuanı) ile yapılır, ABD doları fiyatından anlık kurla çevrilir |
+| Alipay | Ödeme RMB (Çin yuanı) ile yapılır, ABD doları fiyatından sabit kurla (1 ABD doları = 7 yuan) çevrilir (aylık: Bireysel ¥35, Aile ¥70, Kurumsal ¥140) |
 | PayPal | ABD doları ile ödenir; Çin'de çıkarılmış banka kartlarını destekler |
 | Kredi kartı | Visa, Mastercard, AMEX |
 | Puan | Önceden yüklediğiniz puanlardan düşülür; günlük alımda kullanılabilir |
@@ -81,11 +81,11 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 | | Bireysel | Aile | Kurumsal |
 |---|---|---|---|
-| Ücretsiz deneme | 24 saat | 12 saat | 6 saat |
+| Ücretsiz deneme | 4 saat | 2 saat | 1 saat |
 | Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | +20 gün | +10 gün | +5 gün |
 | Router satın alımına dahil hizmet (24 aylık modeller) | 24 ay | 12 ay | 6 ay |
 
-- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez. Yeni hesap Bireysel planda olduğundan normalde alacağınız süre 24 saattir.
+- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez. Yeni hesap Bireysel planda olduğundan normalde alacağınız süre 4 saattir.
 - Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında hem sizin hem de arkadaşınızın geçerlilik süresi doğrudan uzatılır, kişi sayısında sınır yoktur. Her iki tarafın gün sayısı, o kişinin o anda bulunduğu plana göre hesaplanır.
 - Bu rakamların hepsi fiyat katsayısıyla ters orantılı olarak dönüştürülür; hangi plana geçerseniz geçin aldığınız değer aynıdır.
 
@@ -102,7 +102,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 **Tek bir kullanıcı Aile planına geçmeli mi?** Hayır. Üç planın özellikleri aynıdır ve router da kullanılabilir; Bireysel planın aynı anda çevrim içi 2 cihazı bir telefon ve bir bilgisayar için yeterlidir. Aile planını ancak evde bir router'ınız varsa ve yanınızda iki cihaz daha taşıyorsanız düşünün.
 
-**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay ödeme anındaki anlık kurla RMB'ye çevirir, bu yüzden RMB tutarı kura göre biraz oynar.
+**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay'de RMB'ye sabit kurla (1 ABD doları = 7 yuan) çevrilir. Aylık tutarlar Bireysel ¥35, Aile ¥70, Kurumsal ¥140, 25 puan ise ¥56'dır; tutar kura göre değişmez.
 
 **Puanlar ve aylık abonelik birlikte kullanılabilir mi?** Evet. Puanlar süresi dolmadan bekler; yenilerken ödeme yöntemi olarak "Puan"ı seçerseniz bakiyeden düşülür, başka bir yöntem seçerseniz her zamanki gibi nakit ödersiniz.
 
@@ -117,4 +117,4 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - [SSS ve destekle iletişim](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08)
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok

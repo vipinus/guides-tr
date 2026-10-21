@@ -8,7 +8,7 @@ Diğer diller: [English](https://github.com/vipinus/guides-en) · [简体中文]
 
 | Nasıl alınır | Ne kazanırsınız |
 |---|---|
-| Kaydolduktan sonra ücretsiz denemeyi alın | Tüm özelliklerle 24 saat, kredi kartı gerekmez |
+| Kaydolduktan sonra ücretsiz denemeyi alın | Tüm özelliklerle 4 saat, kredi kartı gerekmez |
 | Kaydolup ilk kez ödeme yapan bir arkadaşınızı davet edin | Hem sizin hem de arkadaşınızın bitiş tarihine +20 gün (Bireysel plan esasıyla; Aile planında +10 gün, Kurumsal planda +5 gün, herkes kendi planına göre), her arkadaş için bir kez, arkadaş sayısında sınır yok |
 
 Site: <https://www.leotun.com/tr?utm_source=github&utm_content=readme> · Bize ulaşın: <https://www.leotun.com/tr/contact?utm_source=github&utm_content=readme>

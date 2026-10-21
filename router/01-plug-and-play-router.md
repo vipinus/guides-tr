@@ -20,4 +20,4 @@ Varsayılan mod bölünmüş yönlendirmedir: Listedeki Çin alan adları VPN'de
 - **Başka bir router'a geçmek istiyorsunuz**: Önce sitede eskisinin eşleştirmesini kaldırın; bkz. [MAC bağlama ve router değiştirme](05-mac-binding-and-replacing.md).
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-01) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-01) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-01) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-01) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

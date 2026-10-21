@@ -131,4 +131,4 @@ Model listede yok, donanım revizyonu eşleşmiyor ya da kurtarma modu olmayan e
 **Gelecekteki güncellemeler yeniden yükleme gerektirir mi?** Olağan güncellemeleri router kendisi alır; sizin bir şey yapmanız gerekmez. Yalnızca büyük bir sürüm yeni bir derleme ve sysupgrade dosyasının bir kez yüklenmesini gerektirir; bu olduğunda site duyurur.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir

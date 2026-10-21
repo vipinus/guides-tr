@@ -27,4 +27,4 @@ Bu yüzden sık görülen durum şudur: Çin IP'sine geçtikten sonra giriş yap
 Hattan geçiyor olun ya da olmayın, halka açık Wi-Fi'de bankacılık işlemi yapmayın. Hat yalnızca çıkış IP'nizi değiştirir, bankanın ötesinde sizin için hiçbir şeyi şifrelemez; güvenliği sağlayan, banka uygulamasının kendi şifrelemesidir.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

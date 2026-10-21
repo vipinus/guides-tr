@@ -26,7 +26,7 @@ Basit bir test: Koptuğunda canınız sıkılacaksa, ödeme zamanı gelmiştir.
 
 LeoTun'un Bireysel planı ayda 4 ABD dolarıdır ve 24 bölgeyi, aynı anda çevrim içi 2 cihazı ve tüm bağlantı yöntemlerini — AnyConnect / OpenVPN / Hiddify / Web Proxy — kapsar; router ile de kullanılabilir. Aile ve Kurumsal planlar Bireysel planın sırasıyla 2 ve 4 katıdır. Bölgeler, hatlar ve bağlantı yöntemleri üç planda da tamamen aynıdır; tek fark aynı anda çevrim içi olabilen cihaz sayısıdır (4 ve 8).
 
-Aylık almak istemiyorsanız iki yol var: Önce 24 saatlik ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 25 puan 8 ABD dolarıdır; bu da günde yaklaşık 0,32 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
+Aylık almak istemiyorsanız iki yol var: Önce 4 saatlik ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 25 puan 8 ABD dolarıdır; bu da günde yaklaşık 0,32 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
 
 Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında hem sizin hem de arkadaşınızın geçerlilik süresi 20 gün uzatılır (Bireysel plan esasıyla), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
 
@@ -46,7 +46,7 @@ Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında hem si
 
 **Günlük mü aylık mı daha avantajlı?** Ayda 12 gün ya da daha fazla kullanıyorsanız aylık daha avantajlıdır; ara sıra birkaç gün kullanıyorsanız günlük. Puanların süresi dolmaz, bir yükleme uzun süre yeter.
 
-**Deneme için kredi kartı gerekiyor mu?** Hayır. Kaydolduktan sonra ana sayfadan alın: tüm özelliklerle 24 saat, her hesap için bir kez.
+**Deneme için kredi kartı gerekiyor mu?** Hayır. Kaydolduktan sonra ana sayfadan alın: tüm özelliklerle 4 saat, her hesap için bir kez.
 
 **Ödeme yaptım ama hâlâ kopuyor. Ne yapmalıyım?** Önce bölge değiştirin, sonra bağlantı yöntemi değiştirin (aynı hesapta üç protokol de kullanılabilir); yine olmuyorsa sorun giderme rehberini okuyun ya da destekle iletişime geçin. Ödemenin anlamlarından biri de sorumluluğu üstlenen birinin olmasıdır.
 
@@ -60,4 +60,4 @@ Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında hem si
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

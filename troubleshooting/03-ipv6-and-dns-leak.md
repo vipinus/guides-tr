@@ -34,4 +34,4 @@ Router seçeneğinde ise sızıntı baştan olmaz: Bütün yerel ağ router üze
 | Web Proxy kullanıyorsunuz | Tarayıcıda çalışıyor, uygulamalarda çalışmıyor | Video izlemek için cihazın tamamını kapsayan bir tünel gerekir; Web Proxy yalnızca tarayıcıyı kapsar |
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir

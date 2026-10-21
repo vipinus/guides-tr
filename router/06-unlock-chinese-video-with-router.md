@@ -11,7 +11,7 @@
 | Ne | Notlar |
 |---|---|
 | Desteklenen bir router | Yazılımı yüklü olan kutudan çıktığı gibi çalışır; kendiniz yükleyecekseniz bkz. [Yazılım nasıl yüklenir](02-flash-firmware-yourself.md) |
-| Bir hesap | Bireysel, Aile ve Kurumsal hesapların hepsi router özelliğini destekler. Kaydolduktan sonra tüm süreci doğrulamak için önce ücretsiz denemeyi alın: Yeni hesap Bireysel plandadır ve 24 saatlik deneme verilir |
+| Bir hesap | Bireysel, Aile ve Kurumsal hesapların hepsi router özelliğini destekler. Kaydolduktan sonra tüm süreci doğrulamak için önce ücretsiz denemeyi alın: Yeni hesap Bireysel plandadır ve 4 saatlik deneme verilir |
 | Üstte bir ağ | Evde zaten olan modem ya da router; yeni router onun arkasına bağlanır |
 
 ## Beş adımda tamam
@@ -37,4 +37,4 @@ Bölünmüş yönlendirme listesindeki video alan adları herkese açık bir dep
 - **Eski bir router'da tüm evin interneti yavaşlıyor**: İşlemci şifreli trafiğe yetişemiyor; daha güçlü bir modele geçin, bkz. [Yazılımı yüklü router ile ilk adımlar](01-plug-and-play-router.md).
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

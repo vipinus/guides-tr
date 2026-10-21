@@ -68,4 +68,4 @@ Ne zaman seçmemeli: Büyük ev, çok sayıda cihaz ya da gigabitin üzerinde ge
 **Yazılımda arka kapı var mı?** OpenWrt'den derlenir; üzerine yalnızca VPN'e bağlanan bileşen ve bölünmüş yönlendirme kuralları eklenmiştir. VPN faturalandırma için yalnızca bağlantı süresini ve toplam trafiği kaydeder, neleri ziyaret ettiğinizi kaydetmez.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya

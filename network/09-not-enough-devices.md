@@ -22,7 +22,7 @@ Birkaç gün evinizde kalan akrabalar ya da arkadaşlar, iş seyahatinde fazlada
 
 ## Geçici yükseltmenin maliyeti: hesaplayalım
 
-Üç planın fiyatı 1 : 2 : 4 oranındadır (aylık Bireysel 4 $, Aile 8 $, Kurumsal 16 $); bu yüzden plan değişikliğinde kalan süre bu oranla dönüştürülür ve kimse zarar etmez. Örneğin: Aile planında 30 gününüz kaldı, geçici olarak Kurumsal plana geçince 15 gün olur; 3 gün kullandıktan sonra 12 gün kalır, Aile planına dönünce 24 gün olur. Baştan sona Aile planında kalmaya göre (30 − 3 = 27 gün) 3 gün eksik; yani o 3 gün Kurumsal planın fiyatından ücretlendirildi ve fazladan ödediğiniz yalnızca o 3 günün farkıdır.
+Üç planın fiyatı 1 : 2 : 4 oranındadır (aylık Bireysel 5 $, Aile 10 $, Kurumsal 20 $); bu yüzden plan değişikliğinde kalan süre bu oranla dönüştürülür ve kimse zarar etmez. Örneğin: Aile planında 30 gününüz kaldı, geçici olarak Kurumsal plana geçince 15 gün olur; 3 gün kullandıktan sonra 12 gün kalır, Aile planına dönünce 24 gün olur. Baştan sona Aile planında kalmaya göre (30 − 3 = 27 gün) 3 gün eksik; yani o 3 gün Kurumsal planın fiyatından ücretlendirildi ve fazladan ödediğiniz yalnızca o 3 günün farkıdır.
 
 İki kısıtlama var: Son 30 dakika içinde başlatılıp tamamlanmamış bir ödeme varsa geçiş yapılamaz; o ödemeyi tamamlayın ya da vazgeçin ve geçiş yapmadan önce yarım saat bekleyin. Alt plana dönerken çevrim içi cihazlar hâlâ alt planın sınırını aşıyorsa site önce fazla cihazların bağlantısını kesmenizi ister.
 
@@ -56,4 +56,4 @@ Evde cihazlar giderek çoğalıyorsa ve aile üyelerinin her birinin kendi telef
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-09) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-09) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 24 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-09) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-09) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
