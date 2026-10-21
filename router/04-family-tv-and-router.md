@@ -29,4 +29,4 @@ Yurt dışından Çin'e erişim hattını router'a kurun ve bölünmüş yönlen
 Bölünmüş yönlendirme modunda yerel banka siteleri, yerel yayın hizmetleri ve yazıcılar doğrudan bağlanmaya devam eder. Yalnızca listedeki Çin alan adları Çin'e erişim hattından geçer. Global yerine bölünmüş yönlendirmeyi önermemizin sebebi de budur.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir

@@ -45,4 +45,4 @@ Onu bu router'dan ayrı olarak üstteki router'ın ya da modemin Wi-Fi'sine bağ
 **Bir cihazı kalıcı olarak VPN dışında tutabilir miyim?** Evet, onu üstteki router'a ya da modeme bağlayın. Yönetim sayfasından bütün router'ı "Direct" (Doğrudan) moduna da alabilirsiniz, ama bu herkese aynı anda uygulanır.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir

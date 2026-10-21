@@ -51,4 +51,4 @@ Tipik belirtiler "Bu içerik bölgenizde kullanılamıyor" uyarısı, hiç açı
 Önce ücretsiz denemeyle kullanmak istediğiniz hizmetleri tek tek deneyin. **Sorununuzu çözüyorsa kalın; başka ihtiyaçlarınız için destekle iletişime geçin**, size uygun bir yol olup olmadığına birlikte bakalım.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok

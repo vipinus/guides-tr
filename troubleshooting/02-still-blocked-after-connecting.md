@@ -15,4 +15,4 @@ Sırayla kontrol edin. Her adım bir dakika sürer.
 Desteğe şu dört şeyi iletin: hedef site ya da uygulama, hata mesajının tam metni, şu anki çıkış IP'nizin konumu ve kullandığınız bağlantı yöntemi. Bunlarla sorun tek seferde tespit edilebilir.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

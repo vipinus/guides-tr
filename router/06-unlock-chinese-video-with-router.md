@@ -37,4 +37,4 @@ Bölünmüş yönlendirme listesindeki video alan adları herkese açık bir dep
 - **Eski bir router'da tüm evin interneti yavaşlıyor**: İşlemci şifreli trafiğe yetişemiyor; daha güçlü bir modele geçin, bkz. [Yazılımı yüklü router ile ilk adımlar](01-plug-and-play-router.md).
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

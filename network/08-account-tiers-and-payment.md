@@ -17,7 +17,7 @@ LeoTun hesapları üç plandan oluşur: Bireysel, Aile ve Kurumsal. Aralarındak
 
 ## Yeni hesaplar ve satın alırken plan seçimi
 
-- Yeni kaydolan bir hesap varsayılan olarak Bireysel plandadır; ücretsiz deneme ve davet ödülü Bireysel planın değerleriyle verilir.
+- Yeni kaydolan bir hesap varsayılan olarak Bireysel plandadır; ücretsiz deneme Bireysel planın süresiyle verilir.
 - Yenileme penceresinde, varsayılan olarak mevcut planınızın seçili olduğu bir "Hesap planı" seçicisi vardır; ana sayfada hangi fiyat kartına tıklarsanız pencere o planı önceden seçer, sonradan yine değiştirebilirsiniz.
 - Farklı bir plan seçerseniz pencerede "Ödeme tamamlanınca hesap otomatik olarak şu plana geçer ve süresi dolmamış geçerlilik eşdeğer değerde dönüştürülür" yazar. Fiyat, indirim ve puan sayısı seçtiğiniz plana göre anlık hesaplanır; gördüğünüz, gerçekte tahsil edilendir.
 - Hiçbir şey satın almadan da plan değiştirebilirsiniz: Planı değiştirmek için kullanıcı adınıza tıklayın.
@@ -77,17 +77,17 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - Puanlarla aylık (30 gün sayılır) ya da yıllık (365 gün sayılır) yenileme de yapılabilir, ama puanla alımda indirim yoktur.
 - Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 15 günden fazla kullanıyorsanız aylık abone olmalısınız.
 
-## Ücretsiz deneme ve davet ödülü: her planda eşdeğer
+## Planlara göre ücretsiz deneme ve davet ödülü
 
 | | Bireysel | Aile | Kurumsal |
 |---|---|---|---|
 | Ücretsiz deneme | 4 saat | 2 saat | 1 saat |
-| Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | +20 gün | +10 gün | +5 gün |
+| Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | 15 puan | 15 puan | 15 puan |
 | Router satın alımına dahil hizmet (24 aylık modeller) | 24 ay | 12 ay | 6 ay |
 
 - Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez. Yeni hesap Bireysel planda olduğundan normalde alacağınız süre 4 saattir.
-- Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında hem sizin hem de arkadaşınızın geçerlilik süresi doğrudan uzatılır, kişi sayısında sınır yoktur. Her iki tarafın gün sayısı, o kişinin o anda bulunduğu plana göre hesaplanır.
-- Bu rakamların hepsi fiyat katsayısıyla ters orantılı olarak dönüştürülür; hangi plana geçerseniz geçin aldığınız değer aynıdır.
+- Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında siz ve arkadaşınız 15'er puan alırsınız; puanlar doğrudan bakiyeye eklenir, her planda aynıdır ve kişi sayısında sınır yoktur. Bireysel plan günde 1 puan harcar, yani 15 puan yaklaşık 15 gündür ve günlük uzatmada kullanılabilir.
+- Ücretsiz deneme ve router alımına dahil hizmet fiyat katsayısıyla ters orantılı olarak dönüştürülür, bu yüzden her planda değer aynıdır; davet ödülü puan olarak verilir ve üç planda da aynıdır.
 
 ## Süre dolduktan sonra
 
@@ -117,4 +117,4 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - [SSS ve destekle iletişim](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08)
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 20 gün Bireysel plan kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok

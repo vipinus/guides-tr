@@ -50,4 +50,4 @@ Kaydolun ve 4 saatlik ücretsiz denemeyi alın, kredi kartı gerekmez. En çok k
 **Daha pahalı bir router daha hızlı yapar mı?** Yalnızca darboğaz router'sa, örneğin hızlı bir hatta mini model kullanılıyorsa. Darboğaz sınır ötesi bacaksa yeni bir router hiçbir şey değiştirmez, farklı bir bölge değiştirir.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

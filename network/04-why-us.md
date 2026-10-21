@@ -26,7 +26,7 @@ Ters yönde, yurt dışındaki biri Çin'deki hizmetlere ulaşmak istediğinde a
 
 - Ücretsizin güçlü yanları: hiçbir şey ödemezsiniz, ara sıra bir şeye bakmak için yeterlidir.
 - Ücretsizin zayıf yanları: Çin anakarasında çıkış bant genişliği kullanıma göre ücretlendirilir; bu yüzden ücretsiz bir hizmet ancak kullanıcıları üst üste yığarak, hızı kısarak ya da veri satarak ayakta kalabilir. Tarayıcı eklentisi türündekiler yalnızca web isteklerini taşır; video, uygulamalar ve sistem DNS'i onlardan geçmez. Kaynağı belirsiz kurulum dosyaları başlı başına bir risktir; "Riskli VPN yazılımları nasıl anlaşılır" yazısına bakın.
-- Bizim yaptığımız: 4 saatlik ücretsiz deneme kredi kartı istemez ve malı görmeniz içindir; günlük ödeme (puanla) ara sıra kullananlar içindir; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 20 gün kazanırsınız (Bireysel plan esasıyla), bu da uzun vadeli bir ücretsiz süre kaynağıdır.
+- Bizim yaptığımız: 4 saatlik ücretsiz deneme kredi kartı istemez ve malı görmeniz içindir; günlük ödeme (puanla) ara sıra kullananlar içindir; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), bu da uzun vadeli bir ücretsiz süre kaynağıdır.
 - Nasıl düzenledik: Ücretsiz süre 4 saatlik denemeden ve davet ödüllerinden gelir; uzun süreli kullanım için aylık, yıllık ya da günlük ödersiniz.
 
 ## Altı bağlantı yöntemi, tek hesap
@@ -55,7 +55,7 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 
 **Neden proxy hattı sağlayıcıları gibi yüzlerce düğüm sunmuyorsunuz?** Düğüm sayısının fazla olması daha istikrarlı olduğu anlamına gelmez. Her bölgemizin arkasında birkaç makine vardır ve bağlanırken sistem en az yüklü olanı seçer; hız testi yapıp düğüm seçmekle uğraşmazsınız. Bir adres engellendiğinde otomatik olarak değiştirilir, istemcinizdeki adresi değiştirmeniz gerekmez.
 
-**Fiyat daha düşük olabilir mi?** Bireysel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,32 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 20 gün daha kazanırsınız (Bireysel plan esasıyla), kişi sayısında sınır yoktur. Kayıt olurken 4 saatlik ücretsiz deneme de gelir.
+**Fiyat daha düşük olabilir mi?** Bireysel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,32 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Kayıt olurken 4 saatlik ücretsiz deneme de gelir.
 
 **Söylediklerinizi nasıl doğrulayabilirim?** 4 saatlik denemeyi alın; akşam yoğun saatinde Çin bölgesine bağlanıp Tencent Video'da bir bölüm izleyin, yurt dışı bir bölgeye bağlanıp YouTube'u açın, IP'nin kayıtlı konumunu ve bir IPv6 test sayfasını kontrol edin. Kontrol listesi "Çin'e giden VPN nasıl seçilir" yazısında.
 
@@ -70,4 +70,4 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

@@ -42,4 +42,4 @@ Cisco adını Cisco Secure Client olarak değiştirdi; kullanımı aynı. Önce 
 **Uzun süre bağlı kalınca kendiliğinden kopar mı?** Süreden dolayı kopmaz. Hesabın süresi dolduğunda sunucu bağlantınızı keser; yenileyip yeniden bağlanın.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

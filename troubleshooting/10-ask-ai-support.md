@@ -51,4 +51,4 @@ VPN bağlantı adresleri siteden alınır: Giriş yaptıktan sonra ilgili bölü
 - Destek ekibi size asla özelden yazıp parola, doğrulama kodu ya da ödeme istemez ve kendiliğinden asla uzaktan kontrol yazılımı kurmanızı istemez.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

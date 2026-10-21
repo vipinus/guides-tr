@@ -28,7 +28,7 @@ LeoTun'un Bireysel planı ayda 4 ABD dolarıdır ve 24 bölgeyi, aynı anda çev
 
 Aylık almak istemiyorsanız iki yol var: Önce 4 saatlik ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 25 puan 8 ABD dolarıdır; bu da günde yaklaşık 0,32 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
 
-Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında hem sizin hem de arkadaşınızın geçerlilik süresi 20 gün uzatılır (Bireysel plan esasıyla), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
+Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında siz ve arkadaşınız 15'er puan alırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
 
 ## Ödemeden önce malı nasıl kontrol edersiniz
 
@@ -60,4 +60,4 @@ Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında hem si
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 20 gün Bireysel plan kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
