@@ -55,7 +55,7 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 
 **Neden proxy hattı sağlayıcıları gibi yüzlerce düğüm sunmuyorsunuz?** Düğüm sayısının fazla olması daha istikrarlı olduğu anlamına gelmez. Her bölgemizin arkasında birkaç makine vardır ve bağlanırken sistem en az yüklü olanı seçer; hız testi yapıp düğüm seçmekle uğraşmazsınız. Bir adres engellendiğinde otomatik olarak değiştirilir, istemcinizdeki adresi değiştirmeniz gerekmez.
 
-**Fiyat daha düşük olabilir mi?** Bireysel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,32 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Kayıt olurken 4 saatlik ücretsiz deneme de gelir.
+**Fiyat daha düşük olabilir mi?** Bireysel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,4 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Kayıt olurken 4 saatlik ücretsiz deneme de gelir.
 
 **Söylediklerinizi nasıl doğrulayabilirim?** 4 saatlik denemeyi alın; akşam yoğun saatinde Çin bölgesine bağlanıp Tencent Video'da bir bölüm izleyin, yurt dışı bir bölgeye bağlanıp YouTube'u açın, IP'nin kayıtlı konumunu ve bir IPv6 test sayfasını kontrol edin. Kontrol listesi "Çin'e giden VPN nasıl seçilir" yazısında.
 

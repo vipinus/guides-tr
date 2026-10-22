@@ -26,7 +26,7 @@ Basit bir test: Koptuğunda canınız sıkılacaksa, ödeme zamanı gelmiştir.
 
 LeoTun'un Bireysel planı ayda 4 ABD dolarıdır ve 24 bölgeyi, aynı anda çevrim içi 2 cihazı ve tüm bağlantı yöntemlerini — AnyConnect / OpenVPN / Hiddify / Web Proxy — kapsar; router ile de kullanılabilir. Aile ve Kurumsal planlar Bireysel planın sırasıyla 2 ve 4 katıdır. Bölgeler, hatlar ve bağlantı yöntemleri üç planda da tamamen aynıdır; tek fark aynı anda çevrim içi olabilen cihaz sayısıdır (4 ve 8).
 
-Aylık almak istemiyorsanız iki yol var: Önce 4 saatlik ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 25 puan 8 ABD dolarıdır; bu da günde yaklaşık 0,32 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
+Aylık almak istemiyorsanız iki yol var: Önce 4 saatlik ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 25 puan 10 ABD dolarıdır; bu da günde yaklaşık 0,4 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
 
 Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında siz ve arkadaşınız 15'er puan alırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
 
