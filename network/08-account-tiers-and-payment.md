@@ -72,10 +72,10 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 ## Puanlar ve günlük ödeme
 
-- Puan yükleme: 10 $'a 25 puan; bir seferde 25–150 puan arasında seçebilirsiniz. Puanların süresi dolmaz.
-- Günlük tüketim: Bireysel günde 1 puan, Aile 2 puan, Kurumsal 4 puan. Bireysel planda bir gün yaklaşık 0,4 $'dır.
+- Puan yükleme: 10 $'a 28 puan; bir seferde 28–168 puan arasında seçebilirsiniz. Puanların süresi dolmaz.
+- Günlük tüketim: Bireysel günde 1 puan, Aile 2 puan, Kurumsal 4 puan. Bireysel planda bir gün yaklaşık 0,36 $'dır.
 - Puanlarla aylık (30 gün sayılır) ya da yıllık (365 gün sayılır) yenileme de yapılabilir, ama puanla alımda indirim yoktur.
-- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 12 günden fazla kullanıyorsanız aylık abone olmalısınız.
+- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 14 günden fazla kullanıyorsanız aylık abone olmalısınız.
 
 ## Planlara göre ücretsiz deneme ve davet ödülü
 
@@ -102,7 +102,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 **Tek bir kullanıcı Aile planına geçmeli mi?** Hayır. Üç planın özellikleri aynıdır ve router da kullanılabilir; Bireysel planın aynı anda çevrim içi 2 cihazı bir telefon ve bir bilgisayar için yeterlidir. Aile planını ancak evde bir router'ınız varsa ve yanınızda iki cihaz daha taşıyorsanız düşünün.
 
-**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay'de RMB'ye sabit kurla (1 ABD doları = 7 yuan) çevrilir. Aylık tutarlar Bireysel ¥35, Aile ¥70, Kurumsal ¥140, 25 puan ise ¥70'dır; tutar kura göre değişmez.
+**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay'de RMB'ye sabit kurla (1 ABD doları = 7 yuan) çevrilir. Aylık tutarlar Bireysel ¥35, Aile ¥70, Kurumsal ¥140, 28 puan ise ¥70'dır; tutar kura göre değişmez.
 
 **Puanlar ve aylık abonelik birlikte kullanılabilir mi?** Evet. Puanlar süresi dolmadan bekler; yenilerken ödeme yöntemi olarak "Puan"ı seçerseniz bakiyeden düşülür, başka bir yöntem seçerseniz her zamanki gibi nakit ödersiniz.
 

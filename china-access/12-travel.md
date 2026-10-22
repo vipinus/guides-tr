@@ -29,7 +29,7 @@ Gelmeyen SMS doğrulama kodlarının hatla ilgisi yoktur; bu, telefon numarasın
 
 ## SSS
 
-**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. 4 saatlik ücretsiz denemeyi alın ya da puan yükleyip günlük ödeyin: Bireysel plan günde 1 puan, yani günde yaklaşık 0,4 ABD dolarıdır; birkaç gün için tam uygundur.
+**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. 4 saatlik ücretsiz denemeyi alın ya da puan yükleyip günlük ödeyin: Bireysel plan günde 1 puan, yani günde yaklaşık 0,36 ABD dolarıdır; birkaç gün için tam uygundur.
 
 **Telefonum ve dizüstü bilgisayarım aynı anda bağlanabilir mi?** Evet. Plana göre bir hesapta aynı anda 2 / 4 / 8 cihaz çevrim içi olabilir (Bireysel / Aile / Kurumsal); Bireysel plan tam bir telefon artı bir dizüstü bilgisayar eder.
 
