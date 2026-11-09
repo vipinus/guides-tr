@@ -17,7 +17,7 @@ LeoTun hesapları üç plandan oluşur: Bireysel, Aile ve Kurumsal. Aralarındak
 
 ## Yeni hesaplar ve satın alırken plan seçimi
 
-- Yeni kaydolan bir hesap varsayılan olarak Bireysel plandadır; ücretsiz deneme Bireysel planın süresiyle verilir.
+- Yeni kaydolan bir hesap varsayılan olarak Bireysel plandadır.
 - Yenileme penceresinde, varsayılan olarak mevcut planınızın seçili olduğu bir "Hesap planı" seçicisi vardır; ana sayfada hangi fiyat kartına tıklarsanız pencere o planı önceden seçer, sonradan yine değiştirebilirsiniz.
 - Farklı bir plan seçerseniz pencerede "Ödeme tamamlanınca hesap otomatik olarak şu plana geçer ve süresi dolmamış geçerlilik eşdeğer değerde dönüştürülür" yazar. Fiyat, indirim ve puan sayısı seçtiğiniz plana göre anlık hesaplanır; gördüğünüz, gerçekte tahsil edilendir.
 - Hiçbir şey satın almadan da plan değiştirebilirsiniz: Planı değiştirmek için kullanıcı adınıza tıklayın.
@@ -81,19 +81,19 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 | | Bireysel | Aile | Kurumsal |
 |---|---|---|---|
-| Ücretsiz deneme | 4 saat | 2 saat | 1 saat |
+| Ücretsiz deneme | 30 dakika | 30 dakika | 30 dakika |
 | Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | 15 puan | 15 puan | 15 puan |
 | Router satın alımına dahil hizmet (24 aylık modeller) | 24 ay | 12 ay | 6 ay |
 
-- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez. Yeni hesap Bireysel planda olduğundan normalde alacağınız süre 4 saattir.
+- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez; her planda 30 dakika.
 - Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında siz ve arkadaşınız 15'er puan alırsınız; puanlar doğrudan bakiyeye eklenir, her planda aynıdır ve kişi sayısında sınır yoktur. Bireysel plan günde 1 puan harcar, yani 15 puan yaklaşık 15 gündür ve günlük uzatmada kullanılabilir.
-- Ücretsiz deneme ve router alımına dahil hizmet fiyat katsayısıyla ters orantılı olarak dönüştürülür, bu yüzden her planda değer aynıdır; davet ödülü puan olarak verilir ve üç planda da aynıdır.
+- Router alımına dahil hizmet fiyat katsayısıyla ters orantılı olarak dönüştürülür, bu yüzden her planda değer aynıdır; ücretsiz deneme ve davet ödülü (puan olarak) üç planda da aynıdır.
 
 ## Süre dolduktan sonra
 
 - Süre dolmadan önceki 24 saat içinde "Hizmet sona ermek üzere" hatırlatma e-postası alırsınız.
 - Süre dolduktan sonra hiçbir bağlantı yöntemi bağlanmaz; Özel ağdaki cihazlar birkaç dakika içinde çevrim dışı olur ve Hiddify QR kodu ancak yeniledikten sonra yeniden oluşturulabilir.
-- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" e-postası alırsınız; koşulları sağlayanlar için içinde giriş gerektirmeyen ve planınıza göre 4 / 2 / 1 saat veren bir düğme bulunur; bağlantı 7 gün geçerlidir ve yalnızca bir kez tıklanabilir.
+- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" e-postası alırsınız; koşulları sağlayanlar için içinde giriş gerektirmeyen ve 30 dakika veren bir düğme bulunur; bağlantı 7 gün geçerlidir ve yalnızca bir kez tıklanabilir.
 - Yeniledikten sonra hizmet doğrudan geri gelir; Özel ağ cihazlarında yalnızca bir kez daha giriş'e tıklamak yeterlidir, çıkış ayarı korunur.
 
 ## SSS
@@ -117,4 +117,4 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - [SSS ve destekle iletişim](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08)
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok

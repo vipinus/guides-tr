@@ -29,7 +29,7 @@ Gelmeyen SMS doğrulama kodlarının hatla ilgisi yoktur; bu, telefon numarasın
 
 ## SSS
 
-**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. 4 saatlik ücretsiz denemeyi alın ya da puan yükleyip günlük ödeyin: Bireysel plan günde 1 puan, yani günde yaklaşık 0,36 ABD dolarıdır; birkaç gün için tam uygundur.
+**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. Puan yükleyip günlük ödeyin: Bireysel plan günde 1 puan, yani günde yaklaşık 0,36 ABD dolarıdır; birkaç gün için tam uygundur. Önce 30 dakikalık ücretsiz denemeyle deneyin.
 
 **Telefonum ve dizüstü bilgisayarım aynı anda bağlanabilir mi?** Evet. Plana göre bir hesapta aynı anda 2 / 4 / 8 cihaz çevrim içi olabilir (Bireysel / Aile / Kurumsal); Bireysel plan tam bir telefon artı bir dizüstü bilgisayar eder.
 
@@ -47,4 +47,4 @@ Gelmeyen SMS doğrulama kodlarının hatla ilgisi yoktur; bu, telefon numarasın
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-12) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-12) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 4 saat ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-12) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-12) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
