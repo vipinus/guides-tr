@@ -27,9 +27,9 @@ Hangi yolu seçerseniz seçin yazılım bileşenlerini kendisi günceller, yenid
 | Model | Tür | Fiyat | Dahil | Nedir | En uygun olduğu kullanım |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | 200 $ | 12 ay hizmet | Avuç içi boyutunda, USB ile beslenir (powerbank ile çalışabilir); yalnızca 2,4 GHz Wi‑Fi, 100 Mbps portlar | Tek başına seyahat eden biri: otelin kablolu internetine ya da Wi‑Fi'sine bağlanıp telefon ve dizüstüyle gezinmek, 1080p izlemek. Evde ana router olmaya uygun değil |
-| **GL-MT3000** | Taşınabilir | 300 $ | 3 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 6 ve 2.5G port, avuç içinden biraz büyük | Küçük bir hanenin ana router'ı — TV, yayın kutusu, birkaç telefon ve bilgisayar — ve sırt çantasına sığacak kadar küçük |
-| GL-MT6000 | Masaüstü | 400 $ | 3 yıl Bireysel hizmet | İki 2.5G ve dört gigabit port, harici antenler, en yüksek işlem gücü | Büyük evler, çok sayıda cihaz (bir düzine ve üzeri), gigabitin üzerinde genişbant, 4K ve konsol oyunları ya da küçük bir ofis. Tek router olarak sabit bir yerde durur |
-| GL-XE3000 | Mobil | 400 $ | 3 yıl Bireysel hizmet | Dahili 5G/4G ve batarya; bir SIM kartla kendi başına ağ kurar, kablolu internete de bağlanır | Sabit genişbandın olmadığı yerler: karavan, şantiye, fuar, kısa dönem kiralık ev; ya da ev hattı için yedek |
+| **GL-MT3000** | Taşınabilir | 300 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 6 ve 2.5G port, avuç içinden biraz büyük | Küçük bir hanenin ana router'ı — TV, yayın kutusu, birkaç telefon ve bilgisayar — ve sırt çantasına sığacak kadar küçük |
+| GL-MT6000 | Masaüstü | 400 $ | 2 yıl Bireysel hizmet | İki 2.5G ve dört gigabit port, harici antenler, en yüksek işlem gücü | Büyük evler, çok sayıda cihaz (bir düzine ve üzeri), gigabitin üzerinde genişbant, 4K ve konsol oyunları ya da küçük bir ofis. Tek router olarak sabit bir yerde durur |
+| GL-XE3000 | Mobil | 400 $ | 2 yıl Bireysel hizmet | Dahili 5G/4G ve batarya; bir SIM kartla kendi başına ağ kurar, kablolu internete de bağlanır | Sabit genişbandın olmadığı yerler: karavan, şantiye, fuar, kısa dönem kiralık ev; ya da ev hattı için yedek |
 
 Dahil olan aylar Bireysel plana göredir; Aile planında yarısı, Kurumsal planda dörtte biri verilir, değer her durumda aynıdır. Dünya geneline ücretsiz kargo, genellikle 3–14 gün; 30 gün içinde iade edilebilir.
 
@@ -46,7 +46,7 @@ Dahil olan aylar Bireysel plana göredir; Aile planında yarısı, Kurumsal plan
 
 - **Tek cihaz, iki görev.** Küçük bir hanenin ana router'ı olacak kadar güçlü, yanınızda taşıyacak kadar küçük. Dördü arasında ikisini birden yapabilen tek model bu.
 - **Çabuk eskimez.** Wi‑Fi 6 ve 2.5G port, çoğu ev genişbandına göre pay bırakır. Mini modelde yalnızca 2,4 GHz Wi‑Fi ve 100 Mbps portlar var; evde darboğaz olur.
-- **Fiyatı hesaplı.** 3 yıl Bireysel plan hizmetiyle 300 $; mini model ise 12 ayla 200 $. Dahil olan hizmeti hesaba katınca fazladan verdiğiniz 100 $ hem belirgin biçimde daha iyi bir cihaz hem de iki yıl daha getirir.
+- **Fiyatı hesaplı.** 2 yıl Bireysel plan hizmetiyle 300 $; mini model ise 12 ayla 200 $. Dahil olan hizmeti hesaba katınca fazladan verdiğiniz 100 $ hem belirgin biçimde daha iyi bir cihaz hem de bir yıl daha getirir.
 - **En iyi tanıdığımız model.** Kendi test cihazımız bu modeldir, yeni yazılım önce onda denenir ve [yazılım yükleme video anlatımı](02-flash-firmware-yourself.md) da onunla çekildi. Bir sorunla karşılaştığınızda karşılaştırmak için aynı cihaz masamızda durur.
 
 Ne zaman seçmemeli: Büyük ev, çok sayıda cihaz ya da gigabitin üzerinde genişbant için doğrudan GL-MT6000'e gidin; sabit genişbant yoksa GL-XE3000; yalnızca tek kişinin seyahatleri içinse ve en önemlisi fiyatsa GL-MT300N-V2 yeterlidir.
