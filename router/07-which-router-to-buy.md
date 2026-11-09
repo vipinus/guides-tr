@@ -31,7 +31,7 @@ Hangi yolu seçerseniz seçin yazılım bileşenlerini kendisi günceller, yenid
 | GL-MT3600BE | Taşınabilir | 350 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 7 ve iki 2.5G port, boyutu GL-MT3000 kadar | Telefonu ve dizüstüsü zaten Wi‑Fi 7 destekleyen, taşınabilir bir cihazda daha hızlı kablosuz isteyenler |
 | GL-MT6000 | Masaüstü | 400 $ | 2 yıl Bireysel hizmet | İki 2.5G ve dört gigabit port, harici antenler, en yüksek işlem gücü | Büyük evler, çok sayıda cihaz (bir düzine ve üzeri), gigabitin üzerinde genişbant, 4K ve konsol oyunları ya da küçük bir ofis. Tek router olarak sabit bir yerde durur |
 
-Dahil olan aylar Bireysel plana göredir; Aile planında yarısı, Kurumsal planda dörtte biri verilir, değer her durumda aynıdır. Dünya geneline ücretsiz kargo, genellikle 3–14 gün; 30 gün içinde iade edilebilir.
+Dahil olan aylar Bireysel plana göredir; Aile planında yarısı, Kurumsal planda dörtte biri verilir, değer her durumda aynıdır. Dünya geneline ücretsiz kargo, genellikle 3–14 gün. Altı ay garantilidir; router için ücret iadesi yapılmaz.
 
 ### Duruma göre hızlı seçim
 
