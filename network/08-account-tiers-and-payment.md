@@ -93,7 +93,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 - Süre dolmadan önceki 24 saat içinde "Hizmet sona ermek üzere" hatırlatma e-postası alırsınız.
 - Süre dolduktan sonra hiçbir bağlantı yöntemi bağlanmaz; Özel ağdaki cihazlar birkaç dakika içinde çevrim dışı olur ve Hiddify QR kodu ancak yeniledikten sonra yeniden oluşturulabilir.
-- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" e-postası alırsınız; koşulları sağlayanlar için içinde giriş gerektirmeyen ve 30 dakika veren bir düğme bulunur; bağlantı 7 gün geçerlidir ve yalnızca bir kez tıklanabilir.
+- Süre dolduktan bir iki gün sonra "Hizmet sona erdi" hatırlatma e-postası alırsınız.
 - Yeniledikten sonra hizmet doğrudan geri gelir; Özel ağ cihazlarında yalnızca bir kez daha giriş'e tıklamak yeterlidir, çıkış ayarı korunur.
 
 ## SSS
