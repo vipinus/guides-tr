@@ -21,11 +21,12 @@ Her operatör Çin'den farklı bir yoldan çıkar ve doğru bölgeyi seçmek her
 
 **3. Router'ın kendisi**
 Trafiğin tünele girmeden önce şifrelenmesi gerekir ve bu router'ın işlemcisine düşen bir iştir. Modeller arasında büyük fark var:
-- GL-MT300N-V2 (mini): 100 Mbps portlar. Telefonda ya da dizüstünde 1080p için yeterli, hızlı bir hatta denk değil
 - GL-MT3000 (taşınabilir): küçük bir haneyi kaldırır. Çoğu kişi için ilk tercih
+- GL-AXT1800 (taşınabilir): gigabit portlar. Yolda iki cihazı kabloyla bağlamak için
+- GL-MT3600BE (taşınabilir): Wi‑Fi 7 ve iki 2.5G port. Taşınabilirler arasında en hızlı kablosuz
 - GL-MT6000 (masaüstü): 2.5G port. Çok cihaz, 4K ve oyun konsolları için
 
-Hattınız hızlı ve evde çok kullanım varsa mini modeli değil, MT3000'i ya da MT6000'i seçin.
+Hattınız hızlı ve evde çok kullanım varsa MT3000'i ya da MT6000'i seçin.
 
 **4. Evdeki son birkaç metre**
 TV'yi ve masaüstü bilgisayarı mümkün olan her yerde kabloyla bağlayın. Kalabalık bir apartmanda Wi-Fi ciddi parazite maruz kalır; "hat yavaş" şikâyetlerinin çoğu aslında evin içindeki sorundur.
