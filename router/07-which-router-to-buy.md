@@ -26,7 +26,7 @@ Hangi yolu seçerseniz seçin yazılım bileşenlerini kendisi günceller, yenid
 
 | Model | Tür | Fiyat | Dahil | Nedir | En uygun olduğu kullanım |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Taşınabilir | 300 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 6 ve 2.5G port, avuç içinden biraz büyük | Küçük bir hanenin ana router'ı — TV, yayın kutusu, birkaç telefon ve bilgisayar — ve sırt çantasına sığacak kadar küçük |
+| **GL-MT3000** | Taşınabilir | 250 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 6 ve 2.5G port, avuç içinden biraz büyük | Küçük bir hanenin ana router'ı — TV, yayın kutusu, birkaç telefon ve bilgisayar — ve sırt çantasına sığacak kadar küçük |
 | GL-AXT1800 | Taşınabilir | 300 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 6, bir gigabit WAN ve iki gigabit LAN portu, boyutu GL-MT3000 kadar | Yolda Wi‑Fi'ın yanında iki cihazı aynı anda kabloyla bağlamak gerektiğinde; örneğin dizüstü ve yayın kutusu |
 | GL-MT3600BE | Taşınabilir | 350 $ | 2 yıl Bireysel hizmet | Çift bantlı Wi‑Fi 7 ve iki 2.5G port, boyutu GL-MT3000 kadar | Telefonu ve dizüstüsü zaten Wi‑Fi 7 destekleyen, taşınabilir bir cihazda daha hızlı kablosuz isteyenler |
 | GL-MT6000 | Masaüstü | 400 $ | 2 yıl Bireysel hizmet | İki 2.5G ve dört gigabit port, harici antenler, en yüksek işlem gücü | Büyük evler, çok sayıda cihaz (bir düzine ve üzeri), gigabitin üzerinde genişbant, 4K ve konsol oyunları ya da küçük bir ofis. Tek router olarak sabit bir yerde durur |
@@ -46,7 +46,7 @@ Dahil olan aylar Bireysel plana göredir; Aile planında yarısı, Kurumsal plan
 
 - **Tek cihaz, iki görev.** Küçük bir hanenin ana router'ı olacak kadar güçlü, yanınızda taşıyacak kadar küçük. Dördü arasında ikisini birden yapabilen tek model bu.
 - **Çabuk eskimez.** Wi‑Fi 6 ve 2.5G port, çoğu ev genişbandına göre pay bırakır.
-- **Fiyatı en düşük.** 2 yıl Bireysel plan hizmetiyle 300 $; GL-AXT1800 ile aynı fiyat, ama 2.5G portlu.
+- **Fiyatı en düşük.** 2 yıl Bireysel plan hizmetiyle 250 $; dördünün en ucuzu, GL-AXT1800'den 50 $ daha ucuz, üstelik 2.5G portlu.
 - **En iyi tanıdığımız model.** Kendi test cihazımız bu modeldir, yeni yazılım önce onda denenir ve [yazılım yükleme video anlatımı](02-flash-firmware-yourself.md) da onunla çekildi. Bir sorunla karşılaştığınızda karşılaştırmak için aynı cihaz masamızda durur.
 
 Ne zaman seçmemeli: İki kablo portlu taşınabilir bir cihaz için GL-AXT1800; Wi‑Fi 7 destekleyen cihazlar için GL-MT3600BE; büyük ev, çok sayıda cihaz ya da gigabitin üzerinde genişbant için doğrudan GL-MT6000'e gidin.
