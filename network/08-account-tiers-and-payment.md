@@ -83,7 +83,7 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 |---|---|---|---|
 | Ücretsiz deneme | 30 dakika | 30 dakika | 30 dakika |
 | Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | 15 puan | 15 puan | 15 puan |
-| Router satın alımına dahil hizmet (24 aylık modeller) | 24 ay | 12 ay | 6 ay |
+| Router satın alımına dahil hizmet (2 yıllık modeller) | 2 yıl | 12 ay | 6 ay |
 
 - Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez; her planda 30 dakika.
 - Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında siz ve arkadaşınız 15'er puan alırsınız; puanlar doğrudan bakiyeye eklenir, her planda aynıdır ve kişi sayısında sınır yoktur. Bireysel plan günde 1 puan harcar, yani 15 puan yaklaşık 15 gündür ve günlük uzatmada kullanılabilir.
