@@ -13,7 +13,7 @@ Sınır ötesi erişimin **ardındaki ilkelerin**, **altı bağlantı yöntemi a
 | [05 · Riskli VPN yazılımları nasıl anlaşılır](05-risky-vpn-apps.md) |
 | [06 · Neden bazen hızlı bazen yavaş](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Hat hangi sorunları çözer, hangileri başka çözüm ister](07-when-you-do-not-need-us.md) |
-| [08 · Üç hesap planı arasında seçim, yenileme ve ödeme](08-account-tiers-and-payment.md) |
+| [08 · Hesap planları arasında seçim, yenileme ve ödeme](08-account-tiers-and-payment.md) |
 | [09 · Cihaz bağlantı hakkınız yetmediğinde ne yapmalı](09-not-enough-devices.md) |
 
 [← Ana dizine dön](../README.md)

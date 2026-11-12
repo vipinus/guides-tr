@@ -30,7 +30,7 @@ Yapılandırma dosyası genellikle sistem sürücüsündedir ve yeniden kurulumd
 
 ### Router değiştirmek
 
-Router diğer cihazlardan farklıdır: Onunla hesap arasında bir **eşleştirme** vardır. Yeni bir router'a geçmek için önce eskisinin eşleştirmesini kaldırın. Bu adımı sitede kendiniz yaparsınız: Giriş yapın, Router bölümünü açın ve "Eşleştirildi · model · Eşleştirmeyi kaldır" satırında Eşleştirmeyi kaldır'a tıklayın; yeni router ondan sonra kendiliğinden bağlanır. Ayrıntılar için Router Rehberi'ndeki ilgili yazıya bakın.
+Router diğer cihazlardan farklıdır: Onunla hesap arasında bir **eşleştirme** vardır. Bir hesap plana göre 1 ile 6 arası router eşleştirebilir; sınır dolmamışsa yeni router doğrudan bağlanır. Sınır doluysa önce eskisinin eşleştirmesini kaldırın. Bu adımı sitede kendiniz yaparsınız: Giriş yapın, Router bölümünü açın; "Firmware Derle" başlığının altındaki eşleştirme listesinde ("x / y router") eski router'ın satırının sonundaki "Eşleştirmeyi kaldır"a tıklayın; yeni router ondan sonra kendiliğinden bağlanır. Ayrıntılar için Router Rehberi'ndeki ilgili yazıya bakın.
 
 ## Çok yaygın bir yanılgı
 
@@ -45,7 +45,7 @@ Bu yüzden standart yöntem her zaman şudur: **siteye girip yeni bir kopya alı
 
 ## Haklar dolduğunda ne yapmalı
 
-Bir hesapta aynı anda çevrim içi olabilecek cihaz sayısı plana bağlıdır: Bireysel 2, Aile 4, Kurumsal 8. Geçiş yaparken eski cihaz hâlâ bağlıysa sınıra ulaşıldığı uyarısı alabilirsiniz. Üç seçenek:
+Bir hesapta aynı anda çevrim içi olabilecek cihaz sayısı plana bağlıdır: Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64. Geçiş yaparken eski cihaz hâlâ bağlıysa sınıra ulaşıldığı uyarısı alabilirsiniz. Üç seçenek:
 
 - Eski cihazda çıkış yapın ya da istemciyi kapatın
 - Bir süre bekleyin — boştaki bağlantılar otomatik olarak serbest bırakılır
@@ -54,4 +54,4 @@ Bir hesapta aynı anda çevrim içi olabilecek cihaz sayısı plana bağlıdır:
 Web sayfasında şu anda kaç cihazın çevrim içi olduğunu ve her birinin türünü görebilir, bundan birini kapatmayı unutup unutmadığınızı anlayabilirsiniz.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-07) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-07) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

@@ -29,9 +29,9 @@ Gelmeyen SMS doğrulama kodlarının hatla ilgisi yoktur; bu, telefon numarasın
 
 ## SSS
 
-**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. Puan yükleyip günlük ödeyin: Bireysel plan günde 1 puan, yani günde yaklaşık 0,36 ABD dolarıdır; birkaç gün için tam uygundur. Önce 30 dakikalık ücretsiz denemeyle deneyin.
+**Gezi yalnızca birkaç gün. Bir ay almam gerekir mi?** Hayır. Puan yükleyip günlük ödeyin: Temel plan günde 1 puan, yani günde yaklaşık 0,36 ABD dolarıdır; birkaç gün için tam uygundur. Önce 30 dakikalık ücretsiz denemeyle deneyin.
 
-**Telefonum ve dizüstü bilgisayarım aynı anda bağlanabilir mi?** Evet. Plana göre bir hesapta aynı anda 2 / 4 / 8 cihaz çevrim içi olabilir (Bireysel / Aile / Kurumsal); Bireysel plan tam bir telefon artı bir dizüstü bilgisayar eder.
+**Telefonum ve dizüstü bilgisayarım aynı anda bağlanabilir mi?** Evet. Plana göre bir hesapta aynı anda 2 ile 64 arası cihaz çevrim içi olabilir (Temel 2, Standart 4, sonra her planda iki katı); Temel plan tam bir telefon artı bir dizüstü bilgisayar eder.
 
 **Seyahat için neden Hiddify değil de Cisco öneriliyor?** Tanımadığınız bir ağda en büyük endişe kısıtlanmış UDP'dir. Cisco, bir HTTPS sitesini ziyaret etmekle aynı şekilde TLS üzerinden çalışır ve neredeyse her yerden geçer; Hiddify paket kaybı yüksek ağlarda daha hızlıdır ama UDP kısıtlıyken çalışmaz. İkisini de kurup biri çalışmazsa diğerine geçmek en sağlam yoldur.
 
@@ -47,4 +47,4 @@ Gelmeyen SMS doğrulama kodlarının hatla ilgisi yoktur; bu, telefon numarasın
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-12) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-12) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-12) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-12) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

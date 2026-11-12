@@ -9,7 +9,7 @@ Diğer diller: [English](https://github.com/vipinus/guides-en) · [简体中文]
 | Nasıl alınır | Ne kazanırsınız |
 |---|---|
 | Kaydolduktan sonra ücretsiz denemeyi alın | Tüm özelliklerle 30 dakika, kredi kartı gerekmez |
-| Kaydolup ilk kez ödeme yapan bir arkadaşınızı davet edin | Siz ve arkadaşınız 15'er puan alırsınız (günde 1 puan harcayan Bireysel planda yaklaşık 15 gün), puan bakiyenize doğrudan eklenir, her arkadaş için bir kez, arkadaş sayısında sınır yok |
+| Kaydolup ilk kez ödeme yapan bir arkadaşınızı davet edin | Siz ve arkadaşınız 15'er puan alırsınız (günde 1 puan harcayan Temel planda yaklaşık 15 gün), puan bakiyenize doğrudan eklenir, her arkadaş için bir kez, arkadaş sayısında sınır yok |
 
 Site: <https://www.leotun.com/tr?utm_source=github&utm_content=readme> · Bize ulaşın: <https://www.leotun.com/tr/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ Sınır ötesi erişimin **ardındaki ilkelerin**, **altı bağlantı yöntemi a
 | [05 · Riskli VPN yazılımları nasıl anlaşılır](network/05-risky-vpn-apps.md) |
 | [06 · Neden bazen hızlı bazen yavaş](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Hat hangi sorunları çözer, hangileri başka çözüm ister](network/07-when-you-do-not-need-us.md) |
-| [08 · Üç hesap planı arasında seçim, yenileme ve ödeme](network/08-account-tiers-and-payment.md) |
+| [08 · Hesap planları arasında seçim, yenileme ve ödeme](network/08-account-tiers-and-payment.md) |
 | [09 · Cihaz bağlantı hakkınız yetmediğinde ne yapmalı](network/09-not-enough-devices.md) |
 
 ### [İstemci Rehberleri · Kurulum ve Ayarlar](client/)

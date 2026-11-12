@@ -48,7 +48,7 @@ Aynı mantık Damai ve Maoyan gibi bilet platformları için de geçerlidir.
 
 **Çin'e giden bir VPN kullanmak öğrencinin üniversite ağ hesabını etkiler mi?** Hayır. Hat yalnızca trafiğinizi bir Çin çıkışına gönderir; kampüs ağının gördüğü tek bir şifreli bağlantıdır. Çoğu üniversitenin kullanım kuralları yalnızca telif ihlali içeren indirmeleri ve saldırıları yasaklar; Çin'deki hizmetlere kişisel erişim bunların arasında değildir. Emin değilseniz üniversitenin kabul edilebilir kullanım politikasına bir göz atın.
 
-**Bir hesap oda arkadaşıyla paylaşılabilir mi?** Plana göre bir hesapta aynı anda 2 (Bireysel), 4 (Aile) ya da 8 (Kurumsal) cihaz çevrim içi olabilir; aile ya da oda arkadaşlarıyla paylaşmak kurallar dahilindedir. Ama internet bankacılığı gibi durumlarda herkesin kendi hesabını kullanması daha güvenlidir; böylece birkaç kişinin aynı hatta sık sık geçiş yapıp risk kontrolünü tetiklemesi önlenir.
+**Bir hesap oda arkadaşıyla paylaşılabilir mi?** Plana göre bir hesapta aynı anda 2 (Temel), 4 (Standart), 8 (Pro) cihaz, üst planlarda 64'e kadar cihaz çevrim içi olabilir; aile ya da oda arkadaşlarıyla paylaşmak kurallar dahilindedir. Ama internet bankacılığı gibi durumlarda herkesin kendi hesabını kullanması daha güvenlidir; böylece birkaç kişinin aynı hatta sık sık geçiş yapıp risk kontrolünü tetiklemesi önlenir.
 
 **Yurtta Hiddify neden yavaş, AnyConnect normal?** Büyük olasılıkla kampüs ağı UDP'yi kısıtlıyordur. Hiddify'ın hysteria2 protokolü UDP tabanlıdır ve yavaşlatıldığında yavaşlık ya da kopma olarak kendini gösterir; AnyConnect, HTTPS bir siteyi ziyaret etmekle aynı şekilde TLS üzerinden çalışır ve etkilenmez.
 
@@ -66,4 +66,4 @@ Aynı mantık Damai ve Maoyan gibi bilet platformları için de geçerlidir.
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-10) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-10) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

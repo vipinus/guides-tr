@@ -34,7 +34,7 @@ Bu yolda tasarım gereği kopacak bir bağlantı yoktur; root yetkisi gerekmez v
 
 ## Bilmeniz gerekenler
 
-- Bir Linux makinesi bir cihaz sayılır ve aynı anda çevrim içi kotasını diğer cihazlarınızla paylaşır (Bireysel 2 cihaz, Aile 4 cihaz, Kurumsal 8 cihaz); ikinci yoldaki Web Proxy bağlantı başına sayılır ve bu kotaya dahildir.
+- Bir Linux makinesi bir cihaz sayılır ve aynı anda çevrim içi kotasını diğer cihazlarınızla paylaşır (Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64 cihaz); ikinci yoldaki Web Proxy bağlantı başına sayılır ve bu kotaya dahildir.
 - Yapılandırma dosyası ve parola dosyası hesabınızla aynı değerdedir; bunları bir git deposuna göndermeyin ya da bir imajın içine koymayın.
 - Parolanızı değiştirdikten sonra eski yapılandırma anında çalışmaz olur; bu, tasarım gereği iptal mekanizmasıdır. Parola dosyasını güncellemeniz yeterlidir.
 - Hattı bir bulut sunucusunda çalıştırırken sağlayıcının kullanım koşullarına uyun; hat yalnızca bağlantı süresini ve toplam trafiği kaydeder.
@@ -59,4 +59,4 @@ Bu yolda tasarım gereği kopacak bir bağlantı yoktur; root yetkisi gerekmez v
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-05) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-05) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-05) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-05) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir

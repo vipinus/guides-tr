@@ -1,61 +1,73 @@
-# 08 · Üç hesap planı arasında seçim, yenileme ve ödeme
+# 08 · Hesap planları arasında seçim, yenileme ve ödeme
 
-LeoTun hesapları üç plandan oluşur: Bireysel, Aile ve Kurumsal. Aralarındaki tek fark fiyat ve aynı anda çevrim içi olabilen cihaz sayısıdır; bölgeler, trafik ve bağlantı yöntemleri üçünde de tamamen aynıdır. Bu yazıda şunlar anlatılıyor: üç planın her biri ne sunar ve nasıl seçilir; yeni bir hesap hangi plandadır, satın alırken plan nasıl değiştirilir ve plan değişikliğinde kalan süre nasıl hesaplanır; uzun süreli alımlarda indirim nasıl işler; Alipay, PayPal ve kredi kartıyla nasıl ödenir ve Çin'in içinden öderken sayfa neden bir kez yönlendirilir; puanla günlük ödeme kime uygundur; ücretsiz deneme ve davet ödülü her planda ne kadardır; süre dolunca ne olur.
+LeoTun hesaplarının altı ücretli planı vardır: Temel, Standart, Pro, Elit, Kurumsal ve Zirve (2026-11-11'den itibaren; eski Bireysel, Aile ve Kurumsal planlar fiyatları değişmeden Temel, Standart ve Pro olarak yeniden adlandırıldı). Ayrıca 30 dakikalık ücretsiz deneme vardır. Planlar arasındaki tek fark fiyat, aynı anda çevrim içi olabilen cihaz sayısı ve eşleştirilebilen router sayısıdır; bölgeler, trafik ve bağlantı yöntemleri tamamen aynıdır. Bu yazıda şunlar anlatılıyor: her plan ne sunar ve nasıl seçilir; yeni bir hesap hangi plandadır, satın alırken plan nasıl değiştirilir ve plan değişikliğinde kalan süre nasıl hesaplanır; uzun süreli alımlarda indirim nasıl işler; Alipay, PayPal ve kredi kartıyla nasıl ödenir ve Çin'in içinden öderken sayfa neden bir kez yönlendirilir; puanla günlük ödeme kime uygundur; ücretsiz deneme ve davet ödülü; süre dolunca ne olur.
 
-## Üç plan bir bakışta
+## Altı plan bir bakışta
 
-| | Bireysel | Aile | Kurumsal |
-|---|---|---|---|
-| Aylık fiyat | 5 $ | 10 $ | 20 $ |
-| Fiyat katsayısı | 1x | 2x | 4x |
-| Aynı anda çevrim içi cihaz | 2 | 4 | 8 |
-| Bölgeler / trafik / bağlantı yöntemleri | Tümü / sınırsız / tümü | Aynı | Aynı |
+| Plan | Aylık fiyat | Aynı anda çevrim içi cihaz | Router sayısı | Puan/gün |
+|---|---|---|---|---|
+| Temel | 5 $ | 2 | 1 | 1 |
+| Standart | 10 $ | 4 | 2 | 2 |
+| Pro | 20 $ | 8 | 3 | 4 |
+| Elit | 40 $ | 16 | 4 | 8 |
+| Kurumsal | 80 $ | 32 | 5 | 16 |
+| Zirve | 160 $ | 64 | 6 | 32 |
 
-- Üç plan da Cisco, OpenVPN, Hiddify, Proxy, Özel ağ ve Router'ı kullanabilir ve hepsi router yazılımı oluşturabilir. Plan neyi kullanabileceğinizi değil, yalnızca aynı anda kaç cihazın bağlı olabileceğini belirler.
-- Kaç cihaza kurduğunuzun bir sınırı yoktur; sınırlanan, aynı anda çevrim içi olan sayıdır. Bir router bir cihaz sayılır, arkasındaki telefonlar ve televizyonlar sayılmaz. Aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
-- Nasıl seçilir: Telefonu ve bilgisayarı olan tek kişi Bireysel'i seçer; bir aile ya da evde router kurulu olup dışarıda telefon ve dizüstü bilgisayar da taşıyanlar Aile'yi seçer; küçük ekipler ve çok cihazı olanlar Kurumsal'ı seçer. Emin değilseniz Bireysel ile başlayın, yetmezse yükseltin; kalan süre boşa gitmez (aşağıdaki "Plan değiştirme" bölümüne bakın).
+Her plan bir öncekinin 2 katı fiyattadır. Alipay ile RMB olarak ödenir (1 ABD doları = 7 yuan): Temel ¥35, Standart ¥70, Pro ¥140, Elit ¥280, Kurumsal ¥560, Zirve ¥1120/ay.
+
+- Altı planın hepsi Cisco, OpenVPN, Hiddify, Proxy, Özel ağ ve Router'ı kullanabilir ve hepsi router yazılımı oluşturabilir; router hiçbir planda hız sınırına tabi değildir. Plan neyi kullanabileceğinizi değil, yalnızca aynı anda kaç cihazın bağlı olabileceğini ve kaç router eşleştirebileceğinizi belirler.
+- Kaç cihaza kurduğunuzun bir sınırı yoktur; sınırlanan, aynı anda çevrim içi olan sayıdır. Her router bir cihaz sayılır, arkasındaki telefonlar ve televizyonlar sayılmaz. Aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
+- Nasıl seçilir: Telefonu ve bilgisayarı olan tek kişi Temel'i seçer; bir aile ya da evde router kurulu olup dışarıda telefon ve dizüstü bilgisayar da taşıyanlar Standart'ı seçer; küçük ekipler ve çok cihazı olanlar Pro'yu seçer; daha kalabalık ekipler ve birden çok ofis daha üst planlara bakar. Emin değilseniz Temel ile başlayın, yetmezse yükseltin; kalan süre boşa gitmez (aşağıdaki "Plan değiştirme" bölümüne bakın).
+- Eski adlar: Bireysel = Temel, Aile = Standart, eski 20 $'lık 8 cihazlı Kurumsal = Pro. Bugünkü Kurumsal, 80 $'lık 32 cihazlı yeni plandır.
+
+## Router: her plan kaç router eşleştirebilir
+
+- Bir hesabın plana göre eşleştirebileceği router sayısı: Temel 1, Standart 2, Pro 3, Elit 4, Kurumsal 5, Zirve 6. Yeni bir router ilk bağlandığında otomatik olarak eşleştirilir.
+- Sınır doluysa sonradan gelen router bağlanamaz: Sitenin Router bölümünde kullanmadığınız birinin eşleştirmesini kaldırın ya da planı yükseltin. Eski router bozulmuş ya da yanınızda olmasa bile eşleştirmesi kaldırılabilir.
+- Ücretsiz denemede router kullanılamaz; ödeme yaptıktan sonra kullanılabilir.
 
 ## Yeni hesaplar ve satın alırken plan seçimi
 
-- Yeni kaydolan bir hesap varsayılan olarak Bireysel plandadır.
+- Yeni kaydolan bir hesap varsayılan olarak Temel plandadır.
 - Yenileme penceresinde, varsayılan olarak mevcut planınızın seçili olduğu bir "Hesap planı" seçicisi vardır; ana sayfada hangi fiyat kartına tıklarsanız pencere o planı önceden seçer, sonradan yine değiştirebilirsiniz.
 - Farklı bir plan seçerseniz pencerede "Ödeme tamamlanınca hesap otomatik olarak şu plana geçer ve süresi dolmamış geçerlilik eşdeğer değerde dönüştürülür" yazar. Fiyat, indirim ve puan sayısı seçtiğiniz plana göre anlık hesaplanır; gördüğünüz, gerçekte tahsil edilendir.
 - Hiçbir şey satın almadan da plan değiştirebilirsiniz: Planı değiştirmek için kullanıcı adınıza tıklayın.
 
 ## Plan değiştirme: kalan süre fiyata göre eşdeğer değerde dönüştürülür
 
-Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın katsayısı**. Para aynı kalır, yeni plandaki süreye çevrilir.
+Tek cümlelik kural: **kalan süre × eski planın aylık fiyatı ÷ yeni planın aylık fiyatı**. Para aynı kalır, yeni plandaki süreye çevrilir. Bir üst plana geçince yarıya iner, bir alt plana geçince iki katına çıkar.
 
 | Şu an | Kalan | Geçilen plan | Değişiklikten sonra kalan |
 |---|---|---|---|
-| Bireysel | 60 gün | Aile | 30 gün |
-| Bireysel | 60 gün | Kurumsal | 15 gün |
-| Kurumsal | 10 gün | Bireysel | 40 gün |
+| Temel | 60 gün | Standart | 30 gün |
+| Temel | 60 gün | Pro | 15 gün |
+| Pro | 10 gün | Temel | 40 gün |
+| Pro | 40 gün | Zirve | 5 gün |
 
 - Süresi zaten dolmuş bir hesapta plan değişikliğinde dönüşüm yapılmaz ve bitiş tarihi kaymaz; yenilemede önce plan değiştirilir, ardından satın alınan süre "şu andan" itibaren eklenir.
-- Daha az cihazlı bir plana inerken şu an çevrim içi olan cihazlar yeni planın sınırını aşıyorsa geçişten önce fazla cihazların bağlantısını kesmeniz istenir.
+- Daha düşük sınırlı bir plana inerken şu an çevrim içi olan cihazlar ya da router'lar yeni planın sınırını aşıyorsa geçişten önce fazla cihazların bağlantısını kesmeniz ya da Router bölümünde fazla router'ların eşleştirmesini kaldırmanız istenir.
 - Ödenmemiş bir sipariş varken geçici olarak plan değiştiremezsiniz; ödeyin ya da değiştirmeden önce 30 dakika bekleyin.
 
 ## Ne kadar uzun alırsanız o kadar ucuz
 
-Üç plan aynı indirim eğrisini kullanır: %5 indirim → %10 indirim → %20 indirim. Daha pahalı planlarda indirim daha erken başlar: Aynı tutarı harcayan aynı indirimi alır.
+Tüm planlar aynı indirim eğrisini kullanır: %5 indirim → %10 indirim → %20 indirim. Daha pahalı planlarda indirim daha erken başlar.
 
 | Plan | %5 indirim | %10 indirim | %20 indirim |
 |---|---|---|---|
-| Bireysel | 12 aydan itibaren | 24 aydan itibaren | 48 ay |
-| Aile | 6 aydan itibaren | 12 aydan itibaren | 24 aydan itibaren |
-| Kurumsal | 3 aydan itibaren | 6 aydan itibaren | 12 aydan itibaren |
+| Temel | 12 aydan itibaren | 24 aydan itibaren | 48 ay |
+| Standart | 6 aydan itibaren | 12 aydan itibaren | 24 aydan itibaren |
+| Pro, Elit, Kurumsal, Zirve | 3 aydan itibaren | 6 aydan itibaren | 12 aydan itibaren |
 
-- Aylık alımda bir seferde en fazla 12 ay, yıllık alımda bir seferde en fazla 4 yıl alınabilir. Aylık alım da bir eşiğe ulaşınca aynı indirimi alır, yani "yıllık"ı seçmek zorunda değilsiniz.
-- Birkaç gerçek rakam: Bireysel 12 ay 57 $, 4 yıl 192 $; Aile 6 ay 57 $, 2 yıl 192 $; Kurumsal 3 ay 57 $, 1 yıl 192 $.
+- Aylık alımda bir seferde en fazla 12 ay, yıllık alımda bir seferde en fazla 4 yıl alınabilir. Aylık alım da bir eşiğe ulaşınca aynı indirimi alır, yani "yıllık"ı seçmek zorunda değilsiniz. 1–2 aylık alımda indirim yoktur; en yüksek indirim %20'dir.
+- Birkaç gerçek rakam: Temel 12 ay 57 $, 4 yıl 192 $; Standart 6 ay 57 $, 2 yıl 192 $; Pro 3 ay 57 $, 1 yıl 192 $. Elit, Kurumsal ve Zirve sırayla iki katına çıkar; örneğin Elit 1 yıl 384 $, Zirve 1 yıl 1536 $.
 - Yenilediğinizde geçerliliğiniz henüz dolmamışsa satın alınan süre asıl bitiş tarihinin sonrasına eklenir, kalan günlerinizden yemez.
 
 ## Ödeme yöntemleri
 
 | Yöntem | Notlar |
 |---|---|
-| Alipay | Ödeme RMB (Çin yuanı) ile yapılır, ABD doları fiyatından sabit kurla (1 ABD doları = 7 yuan) çevrilir (aylık: Bireysel ¥35, Aile ¥70, Kurumsal ¥140) |
-| PayPal | ABD doları ile ödenir; Çin'de çıkarılmış banka kartlarını destekler |
+| Alipay | Ödeme RMB (Çin yuanı) ile yapılır, ABD doları fiyatından sabit kurla (1 ABD doları = 7 yuan) çevrilir (aylık: Temel ¥35, Standart ¥70, Pro ¥140, Elit ¥280, Kurumsal ¥560, Zirve ¥1120) |
+| PayPal | ABD doları ile ödenir (aylık: Temel 5, Standart 10, Pro 20, Elit 40, Kurumsal 80, Zirve 160 $); Çin'de çıkarılmış banka kartlarını destekler |
 | Kredi kartı | Visa, Mastercard, AMEX |
 | Puan | Önceden yüklediğiniz puanlardan düşülür; günlük alımda kullanılabilir |
 
@@ -73,21 +85,15 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 ## Puanlar ve günlük ödeme
 
 - Puan yükleme: 10 $'a 28 puan; bir seferde 28–168 puan arasında seçebilirsiniz. Puanların süresi dolmaz.
-- Günlük tüketim: Bireysel günde 1 puan, Aile 2 puan, Kurumsal 4 puan. Bireysel planda bir gün yaklaşık 0,36 $'dır.
+- Günlük tüketim: Temel günde 1 puan, Standart 2, Pro 4, Elit 8, Kurumsal 16, Zirve 32. Temel planda bir gün yaklaşık 0,36 $'dır.
 - Puanlarla aylık (30 gün sayılır) ya da yıllık (365 gün sayılır) yenileme de yapılabilir, ama puanla alımda indirim yoktur.
-- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Bireysel planda ayda 14 günden fazla kullanıyorsanız aylık abone olmalısınız.
+- Kime uygun: Ayda yalnızca on küsur gün kullananlar ya da Çin'e dönmeden önce sadece birkaç güne ihtiyacı olanlar. Her gün kullanıyorsanız aylık abonelik daha avantajlıdır; Temel planda ayda 14 günden fazla kullanıyorsanız aylık abone olmalısınız.
 
-## Planlara göre ücretsiz deneme ve davet ödülü
+## Ücretsiz deneme, davet ödülü ve router alımına dahil süre
 
-| | Bireysel | Aile | Kurumsal |
-|---|---|---|---|
-| Ücretsiz deneme | 30 dakika | 30 dakika | 30 dakika |
-| Davet edilen her arkadaşın ilk ödemesinde (siz ve arkadaşınız ayrı ayrı alırsınız) | 15 puan | 15 puan | 15 puan |
-| Router satın alımına dahil hizmet (2 yıllık modeller) | 2 yıl | 12 ay | 6 ay |
-
-- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez; her planda 30 dakika.
-- Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında siz ve arkadaşınız 15'er puan alırsınız; puanlar doğrudan bakiyeye eklenir, her planda aynıdır ve kişi sayısında sınır yoktur. Bireysel plan günde 1 puan harcar, yani 15 puan yaklaşık 15 gündür ve günlük uzatmada kullanılabilir.
-- Router alımına dahil hizmet fiyat katsayısıyla ters orantılı olarak dönüştürülür, bu yüzden her planda değer aynıdır; ücretsiz deneme ve davet ödülü (puan olarak) üç planda da aynıdır.
+- Deneme: Kaydolduktan sonra ana sayfadan alın, kredi kartı gerekmez; e-postanıza bir deneme kodu gönderilir, etkinleştirmek için 6 haneli kodu girersiniz; her hesap için bir kez, 30 dakika; deneme süresince router kullanılamaz.
+- Davet: Bir arkadaşınız davet bağlantınızla kaydolup ilk ödemesini tamamladığında siz ve arkadaşınız 15'er puan alırsınız; puanlar doğrudan bakiyeye eklenir, her planda aynıdır ve kişi sayısında sınır yoktur. Temel plan günde 1 puan harcar, yani 15 puan yaklaşık 15 gündür ve günlük uzatmada kullanılabilir.
+- Router alımına dahil hizmet (2 yıl veren modeller) fiyat katsayısıyla ters orantılı olarak dönüştürülür, bu yüzden her planda değer aynıdır: Temel 2 yıl, Standart 12 ay, Pro 6 ay, Elit 3 ay, Kurumsal 1 ay; Zirve'de ayrıca süre verilmez.
 
 ## Süre dolduktan sonra
 
@@ -98,11 +104,13 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 
 ## SSS
 
-**Plan istediğim zaman değiştirilebilir mi? Zarar eder miyim?** Evet, değiştirilebilir; kalan süre fiyata göre eşdeğer değerde dönüştürülür, yalnızca biçim değişir. Alt plana inmeden önce fazla cihazların bağlantısını kesin ve ödenmemiş siparişleri kapatın, o kadar.
+**Plan istediğim zaman değiştirilebilir mi? Zarar eder miyim?** Evet, değiştirilebilir; kalan süre fiyata göre eşdeğer değerde dönüştürülür, yalnızca biçim değişir. Alt plana inmeden önce fazla cihazların ve router'ların bağlantısını kesin ve ödenmemiş siparişleri kapatın, o kadar.
 
-**Tek bir kullanıcı Aile planına geçmeli mi?** Hayır. Üç planın özellikleri aynıdır ve router da kullanılabilir; Bireysel planın aynı anda çevrim içi 2 cihazı bir telefon ve bir bilgisayar için yeterlidir. Aile planını ancak evde bir router'ınız varsa ve yanınızda iki cihaz daha taşıyorsanız düşünün.
+**Tek bir kullanıcı Standart plana geçmeli mi?** Hayır. Tüm planların özellikleri aynıdır ve router da kullanılabilir; Temel planın aynı anda çevrim içi 2 cihazı bir telefon ve bir bilgisayar için yeterlidir. Standart planı ancak evde bir router'ınız varsa ve yanınızda iki cihaz daha taşıyorsanız ya da ikinci bir router eşleştirmek istiyorsanız düşünün.
 
-**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay'de RMB'ye sabit kurla (1 ABD doları = 7 yuan) çevrilir. Aylık tutarlar Bireysel ¥35, Aile ¥70, Kurumsal ¥140, 28 puan ise ¥70'dır; tutar kura göre değişmez.
+**Eski Kurumsal planın adı şimdi ne?** Eski 20 $'lık 8 cihazlı Kurumsal plan artık Pro adını taşıyor; hesaplar otomatik olarak aktarıldı, bir şey yapmanız gerekmez. Bugünkü Kurumsal, 2026-11-11'de eklenen 80 $'lık 32 cihazlı plandır.
+
+**Alipay kullanırken neden RMB tutarı görüyorum?** Fiyatlar ABD doları cinsinden belirlenir; Alipay'de RMB'ye sabit kurla (1 ABD doları = 7 yuan) çevrilir. Aylık tutarlar Temel ¥35, Standart ¥70, Pro ¥140, Elit ¥280, Kurumsal ¥560, Zirve ¥1120, 28 puan ise ¥70'dır; tutar kura göre değişmez.
 
 **Puanlar ve aylık abonelik birlikte kullanılabilir mi?** Evet. Puanlar süresi dolmadan bekler; yenilerken ödeme yöntemi olarak "Puan"ı seçerseniz bakiyeden düşülür, başka bir yöntem seçerseniz her zamanki gibi nakit ödersiniz.
 
@@ -117,4 +125,4 @@ Tek cümlelik kural: **kalan süre × eski planın katsayısı ÷ yeni planın k
 - [SSS ve destekle iletişim](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08)
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz ve ödeme yapan her arkadaş için ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, kampanyanın bitiş tarihi yok

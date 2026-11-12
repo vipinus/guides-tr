@@ -9,7 +9,7 @@ Bu yazı, modeli desteklenenler listesinde olan bir router'ı zaten elinde bulun
 ## Başlamadan önce
 
 - **Modelinizin desteklendiğini kontrol edin.** Giriş yapın, **Router** bölümünü açın ve modelinizi markaya göre bulun. Model adından sonraki donanım revizyonunun (v1, v2 vb.) da eşleşmesi gerekir.
-- **Hesabınız etkin olmalı.** Bireysel, Aile ve Kurumsal planların hepsi router kullanabilir.
+- **Hesabınız etkin olmalı.** Altı ücretli planın hepsi router kullanabilir (ücretsiz deneme kullanamaz).
 - **Bir ağ kablosu hazırlayın.** Router'ın WAN portu modeminize ya da üstteki router'a gider. Yükleme sırasında bilgisayarınızı da router'a kabloyla bağlamanız en iyisidir; Wi-Fi'den daha sağlamdır.
 - **Orijinal yazılımın bir kopyasını saklayın.** Bir gün geri dönmek isterseniz diye modelinizin orijinal yazılımını üreticinin sitesinden indirin.
 
@@ -84,10 +84,10 @@ Bağlandığını doğrulamak için router'a bağlı bir cihazdan normalde ulaş
 
 ## Eski router'ı yenisiyle değiştirmek
 
-Bir hesap aynı anda tek bir router'a bağlanır. Hesabınız daha önce başka bir router'da kullanıldıysa:
+Bir hesap plana göre 1 ile 6 arası router eşleştirebilir (Temel 1, sonraki her planda bir fazlası). Sınır dolmamışsa yeni router **otomatik olarak bağlanır** ve eşleştirilir, bir şey kaldırmanız gerekmez. Sınır doluysa ve yeni bir router'a geçmek istiyorsanız:
 
-1. Giriş yapın, **Router** bölümünü açın; "Firmware Derle" başlığının altında **Eşleştirildi** durumundaki modeli ve yanında **Eşleştirmeyi kaldır**'ı göreceksiniz.
-2. Eşleştirmeyi kaldır'a tıklayın. Eski router bozuk ya da elinizde olmasa bile bunu yapabilirsiniz.
+1. Giriş yapın, **Router** bölümünü açın; "Firmware Derle" başlığının altında eşleştirme listesi vardır ("x / y router" yazar), her router bir satırda modeli ve MAC adresinin son hanelerini gösterir.
+2. Kullanmadığınız router'ın satırının sonundaki **Eşleştirmeyi kaldır**'a tıklayın. Eski router bozuk ya da elinizde olmasa bile bunu yapabilirsiniz.
 3. Yeni router'da yapacak bir şey yok: **Otomatik olarak bağlanır** ve hesabınızla eşleştirilir.
 
 Eşleştirmeyi kaldırmadan yeni router'a yazılımı yüklediyseniz o da sorun değil. Yeni router beklemeye devam eder ve siz eşleştirmeyi kaldırınca kendi kendine bağlanır.
@@ -104,7 +104,7 @@ On dakika kadar sonra hâlâ çalışmıyorsa şunları sırayla kontrol edin:
 
 1. **Genişbant bağlantısının kendisi çalışıyor mu?** Router'a bağlı bir cihazdan sıradan herhangi bir siteyi açın. Açılmıyorsa sorun kabloda ya da modemdedir: WAN portundaki kablonun yerine tam oturduğunu kontrol edin.
 2. **Hesabın süresi dolmuş mu?** Siteye giriş yapıp bitiş tarihine bakın. Yeniledikten sonra birkaç dakika bekleyin.
-3. **Hesap hâlâ eski router'a mı bağlı?** Router bölümünde eşleştirilmiş modele bakın. Bu router değilse Eşleştirmeyi kaldır'a tıklayın.
+3. **Hesabın router sınırı dolmuş mu?** Router bölümünde "x / y router" satırına bakın; doluysa kullanmadığınız router'ın satırının sonundaki Eşleştirmeyi kaldır'a tıklayın. Router'ın giriş ekranı parolanız doğru olduğu hâlde kullanıcı adı ya da parolanın yanlış olduğunu söylüyorsa sebep büyük olasılıkla sınırın dolmasıdır.
 4. **Router'ı bir kez yeniden başlatın.** Fişini çekin, on saniye bekleyin, geri takın ve ona iki üç dakika verin.
 5. **Elle giriş yapın.** `http://192.168.11.1` adresini açın ve router'a kullanıcı adı `root`, parola `www.anyfq.com` ile giriş yapın. Ardından **Services** → **VPN**'e (Hizmetler → VPN) gidin, hesabınızın e-postasını ve parolasını girip kaydedin.
 
@@ -124,11 +124,11 @@ Model listede yok, donanım revizyonu eşleşmiyor ya da kurtarma modu olmayan e
 
 **Orijinal yazılıma geri dönebilir miyim?** Evet. "Yükleme ters giderse" bölümünde anlatılan kurtarma modunu kullanarak orijinal yazılımı yükleyin.
 
-**Bir yazılım dosyası iki router'da kullanılabilir mi?** Hayır. Yazılım hesap başına derlenir ve bir hesap aynı anda tek bir router'a bağlanır.
+**Bir hesapla iki router kullanılabilir mi?** Standart ve üstü planlarda evet (Temel planda yalnızca 1 router): Router bölümünde ikinci router'ın modeline göre yazılım derleyip yükleyin; ilk bağlandığında otomatik olarak eşleştirilir.
 
 **Hesap değiştirirsem yeni bir derleme gerekir mi?** Hayır. Yönetim sayfasında çıkış yapıp yeni hesapla giriş yapın.
 
 **Gelecekteki güncellemeler yeniden yükleme gerektirir mi?** Olağan güncellemeleri router kendisi alır; sizin bir şey yapmanız gerekmez. Yalnızca büyük bir sürüm yeni bir derleme ve sysupgrade dosyasının bir kez yüklenmesini gerektirir; bu olduğunda site duyurur.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir

@@ -24,11 +24,11 @@ Basit bir test: Koptuğunda canınız sıkılacaksa, ödeme zamanı gelmiştir.
 
 ## Ne kadar harcamalı
 
-LeoTun'un Bireysel planı ayda 4 ABD dolarıdır ve 24 bölgeyi, aynı anda çevrim içi 2 cihazı ve tüm bağlantı yöntemlerini — AnyConnect / OpenVPN / Hiddify / Web Proxy — kapsar; router ile de kullanılabilir. Aile ve Kurumsal planlar Bireysel planın sırasıyla 2 ve 4 katıdır. Bölgeler, hatlar ve bağlantı yöntemleri üç planda da tamamen aynıdır; tek fark aynı anda çevrim içi olabilen cihaz sayısıdır (4 ve 8).
+LeoTun'un Temel planı ayda 5 ABD dolarıdır ve 24 bölgeyi, aynı anda çevrim içi 2 cihazı ve tüm bağlantı yöntemlerini — AnyConnect / OpenVPN / Hiddify / Web Proxy — kapsar; router ile de kullanılabilir. Üstündeki Standart, Pro, Elit, Kurumsal ve Zirve planlarının her biri bir öncekinin 2 katı fiyattadır. Bölgeler, hatlar ve bağlantı yöntemleri tüm planlarda aynıdır; tek fark aynı anda çevrim içi cihaz sayısı (4 ile 64 arası) ve bağlanabilen router sayısıdır.
 
-Aylık almak istemiyorsanız iki yol var: Önce 30 dakikalık ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Bireysel plan günde 1 puandır, 28 puan 10 ABD dolarıdır; bu da günde yaklaşık 0,36 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
+Aylık almak istemiyorsanız iki yol var: Önce 30 dakikalık ücretsiz denemeyi alın (kredi kartı gerekmez, her hesap için bir kez) ve akşam yoğun saatinde bir kez deneyin; ya da günlük ödeyin. Puan yükledikten sonra Temel plan günde 1 puandır, 28 puan 10 ABD dolarıdır; bu da günde yaklaşık 0,36 ABD dolarına gelir. Çin'e yapacağınız bir seyahatten önce yalnızca birkaç gün almak için çok uygundur.
 
-Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında siz ve arkadaşınız 15'er puan alırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
+Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında siz ve arkadaşınız 15'er puan alırsınız (Temel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Bu, uzun vadeli bir ücretsiz süre kaynağıdır.
 
 ## Ödemeden önce malı nasıl kontrol edersiniz
 
@@ -60,4 +60,4 @@ Davet ettiğiniz bir arkadaşınız kaydolup ilk ödemesini yaptığında siz ve
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=china-access-11) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=china-access-11) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

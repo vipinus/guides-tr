@@ -31,7 +31,7 @@ NAS'a dışarıdan ulaşmak (iş seyahatinde paylaşımları açmak, kameraları
 
 - Yapılandırma dosyası hesabınızı taşır; parolanızı değiştirdikten sonra NAS'taki parola alanı çalışmaz olur: .ovpn'yi yeniden indirip değiştirin ya da VPN profilinde yalnızca parolayı güncelleyin.
 - Hesabın süresi dolunca NAS'ın bağlantısı kesilir; yeniledikten sonra otomatik yeniden bağlanır, yapılandırmayı değiştirmeniz gerekmez.
-- NAS bir cihaz sayılır ve aynı anda çevrim içi kotasını diğer cihazlarınızla paylaşır (Bireysel 2 cihaz, Aile 4 cihaz, Kurumsal 8 cihaz).
+- NAS bir cihaz sayılır ve aynı anda çevrim içi kotasını diğer cihazlarınızla paylaşır (Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64 cihaz).
 - Hat UDP üzerinden çalışır; ev genişbandındaki bir NAS neredeyse hiçbir zaman UDP kısıtlamasıyla karşılaşmaz.
 
 ## SSS
@@ -54,4 +54,4 @@ NAS'a dışarıdan ulaşmak (iş seyahatinde paylaşımları açmak, kameraları
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=overseas-access-06) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=overseas-access-06) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

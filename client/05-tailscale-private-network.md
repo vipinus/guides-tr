@@ -29,7 +29,7 @@
 ## Süre dolması ve cihaz sayısı
 
 - Bir cihazın giriş geçerliliği hesabın bitiş tarihine bağlıdır ve süre dolduktan birkaç dakika sonra çevrim dışı olur; yeniledikten sonra bir kez daha giriş yapmanız yeterlidir. Yeniden kurulum gerekmez.
-- Aynı anda çevrim içi cihaz sayısı planınıza bağlıdır (Bireysel 2, Aile 4, Kurumsal 8) ve kota diğer bağlantı yöntemleriyle ortaktır; planınızın sınırını aştığınızda hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
+- Aynı anda çevrim içi cihaz sayısı planınıza bağlıdır (Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64) ve kota diğer bağlantı yöntemleriyle ortaktır; planınızın sınırını aştığınızda hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
 
 ## Başka bir yöntemin daha uygun olduğu iki durum
 
@@ -37,4 +37,4 @@
 - UDP'yi kısıtlayan bir kampüs / şirket ağında: WireGuard UDP üzerinden çalışır, bu yüzden yalnızca Tailscale'in aktarma sunucularından (relay) geçebilir ve bu çok yavaştır; AnyConnect'e geçin.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=client-05) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=client-05) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=client-05) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=client-05) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

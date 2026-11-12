@@ -20,13 +20,13 @@ Ters yönde, yurt dışındaki biri Çin'deki hizmetlere ulaşmak istediğinde a
 - Proxy hattı sağlayıcılarının güçlü yanları: ucuzdur, çok sayıda düğüm sunar, abonelik bağlantısını yapıştırır yapıştırmaz kullanılır; istemcilerle uğraşmayı sevenler de bu özgürlükten hoşlanır.
 - Proxy hattı sağlayıcılarının zayıf yanları: çoğu, yurt dışında makine kiralayıp trafik satan bireyler ya da küçük ekiplerdir; Çin'de kendilerine ait iniş noktaları yoktur ve çıkış kalitesi kiralanan hatlara göre değişir. Parayı alıp ortadan kaybolmak, ad değiştirmek ve kapanmak sık görülür; bir yıllık ödeme yapmanız bir yıl boyunca kullanabileceğiniz anlamına gelmez. İstemcileri çözmek neredeyse tamamen kullanıcıya kalır, bir şey ters gittiğinde sorumluluğu üstlenen olmaz.
 - Bizim yaptığımız: makineler kendimizindir; Çin çıkışları, Çin anakarasındaki bulut sağlayıcılarında gerçek kimlikle kayıtlı kendi makinelerimizdir. Tek hesapta altı bağlantı yöntemi vardır; tüm cihazları kapsayan router çözümü ve 7/24 destek grubu proxy hattı sağlayıcılarında bulunmaz. 2006'dan bugüne hizmet veriyoruz; isim değişikliğinden önce ve sonra hesaplar, geçerlilik süreleri ve fiyatlar değişmedi.
-- Fiyatımız: Bireysel plan ayda 5 $, Aile planı 10 $, Kurumsal plan 20 $; buna kendi makinelerimiz, altı bağlantı yöntemi ve 7/24 destek grubu dahildir. Siz yalnızca bölgeyi seçersiniz, her bölgenin arkasında sistem en az yüklü makineyi seçer; hız testi yapıp düğüm seçmenize gerek kalmaz.
+- Fiyatımız: Temel plan ayda 5 $, Standart plan 10 $, Pro plan 20 $; üstünde Elit, Kurumsal ve Zirve de var (her biri bir öncekinin 2 katı). Fiyata kendi makinelerimiz, altı bağlantı yöntemi ve 7/24 destek grubu dahildir. Siz yalnızca bölgeyi seçersiniz, her bölgenin arkasında sistem en az yüklü makineyi seçer; hız testi yapıp düğüm seçmenize gerek kalmaz.
 
 ## Ücretsiz yazılımlarla karşılaştırma
 
 - Ücretsizin güçlü yanları: hiçbir şey ödemezsiniz, ara sıra bir şeye bakmak için yeterlidir.
 - Ücretsizin zayıf yanları: Çin anakarasında çıkış bant genişliği kullanıma göre ücretlendirilir; bu yüzden ücretsiz bir hizmet ancak kullanıcıları üst üste yığarak, hızı kısarak ya da veri satarak ayakta kalabilir. Tarayıcı eklentisi türündekiler yalnızca web isteklerini taşır; video, uygulamalar ve sistem DNS'i onlardan geçmez. Kaynağı belirsiz kurulum dosyaları başlı başına bir risktir; "Riskli VPN yazılımları nasıl anlaşılır" yazısına bakın.
-- Bizim yaptığımız: 30 dakikalık ücretsiz deneme kredi kartı istemez ve malı görmeniz içindir; günlük ödeme (puanla) ara sıra kullananlar içindir; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), bu da uzun vadeli bir ücretsiz süre kaynağıdır.
+- Bizim yaptığımız: 30 dakikalık ücretsiz deneme kredi kartı istemez ve malı görmeniz içindir; günlük ödeme (puanla) ara sıra kullananlar içindir; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Temel planda yaklaşık 15 gün), bu da uzun vadeli bir ücretsiz süre kaynağıdır.
 - Nasıl düzenledik: Ücretsiz süre 30 dakikalık denemeden ve davet ödüllerinden gelir; uzun süreli kullanım için aylık, yıllık ya da günlük ödersiniz.
 
 ## Altı bağlantı yöntemi, tek hesap
@@ -37,8 +37,8 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 
 ## Hesap kuralları
 
-- Hesaplar üç plandan oluşur: Bireysel, Aile ve Kurumsal; aynı anda sırasıyla 2, 4 ve 8 cihaz çevrim içi olabilir. Bölgeler, trafik ve bağlantı yöntemleri üçünde de aynıdır. Kaç cihaza kurduğunuzun bir sınırı yoktur, sınırlanan yalnızca aynı anda bağlı olan sayıdır. Aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
-- Üç plan arasında istediğiniz zaman geçiş yapabilirsiniz, kalan süre eşdeğer değerde dönüştürülür (Aile ve Kurumsal, Bireysel fiyatının sırasıyla 2 ve 4 katıdır). Üç plan da router'ı destekler; tek bir kullanıcı için Bireysel plan yeterlidir.
+- Hesaplar altı plandan oluşur: Temel, Standart, Pro, Elit, Kurumsal ve Zirve; aynı anda sırasıyla 2, 4, 8, 16, 32 ve 64 cihaz çevrim içi olabilir. Bölgeler, trafik ve bağlantı yöntemleri tüm planlarda aynıdır. Kaç cihaza kurduğunuzun bir sınırı yoktur, sınırlanan yalnızca aynı anda bağlı olan sayıdır. Aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
+- Planlar arasında istediğiniz zaman geçiş yapabilirsiniz, kalan süre eşdeğer değerde dönüştürülür (her plan bir öncekinin 2 katı fiyattadır). Tüm planlar router'ı hız sınırı olmadan destekler; tek bir kullanıcı için Temel plan yeterlidir.
 - İadeler kullanılan süreye orantılıdır ve her zaman yapılabilir; elle işlenir, paranın ne zaman hesabınıza geçeceği için kesin bir süre taahhüt edilmez.
 - Hız: Genişbandınız iyiyse akşam yoğun saatlerinde bile YouTube'un takılmadan oynayacağını taahhüt ediyoruz: kuzeyde China Unicom ya da güneyde China Telecom. Site ya da apartman genelinde paylaşılan toplu genişbant bunun istisnasıdır. Bir bölge yavaşsa bölgeyi ya da bağlantı yöntemini değiştirin.
 - Hiddify ve OpenVPN yapılandırmaları hesabınızı taşır; parolayı değiştirmek eski yapılandırmaları geçersiz kılar. Telefonunuz kaybolursa ya da bir bağlantı sızarsa tek bir parola değişikliği hepsini geri alır, ardından yeniden içe aktarmanız yeterlidir.
@@ -55,7 +55,7 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 
 **Neden proxy hattı sağlayıcıları gibi yüzlerce düğüm sunmuyorsunuz?** Düğüm sayısının fazla olması daha istikrarlı olduğu anlamına gelmez. Her bölgemizin arkasında birkaç makine vardır ve bağlanırken sistem en az yüklü olanı seçer; hız testi yapıp düğüm seçmekle uğraşmazsınız. Bir adres engellendiğinde otomatik olarak değiştirilir, istemcinizdeki adresi değiştirmeniz gerekmez.
 
-**Fiyat daha düşük olabilir mi?** Bireysel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,36 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Bireysel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Kayıt olurken 30 dakikalık ücretsiz deneme de gelir.
+**Fiyat daha düşük olabilir mi?** Temel plan ayda 5 $'dır ve ne kadar uzun alırsanız indirim o kadar büyür (%5 → %10 → %20 indirim); puanla günlük ödemede günde yaklaşık 0,36 $'dır; davet ettiğiniz bir arkadaşınız ödeme yaptığında ikiniz de 15'er puan kazanırsınız (Temel planda yaklaşık 15 gün), kişi sayısında sınır yoktur. Kayıt olurken 30 dakikalık ücretsiz deneme de gelir.
 
 **Söylediklerinizi nasıl doğrulayabilirim?** 30 dakikalık denemeyi alın; akşam yoğun saatinde Çin bölgesine bağlanıp Tencent Video'da bir bölüm izleyin, yurt dışı bir bölgeye bağlanıp YouTube'u açın, IP'nin kayıtlı konumunu ve bir IPv6 test sayfasını kontrol edin. Kontrol listesi "Çin'e giden VPN nasıl seçilir" yazısında.
 
@@ -70,4 +70,4 @@ Her ağın kendisine en uygun bir yöntemi vardır, bu yüzden altısını birde
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

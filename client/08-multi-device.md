@@ -11,7 +11,7 @@
 
 ## Aynı anda bağlı cihazlar nasıl sayılır
 
-Bir hesap istediğiniz kadar cihaza kurulabilir; tek sınır aynı anda kaç cihazın çevrim içi olduğudur: Bireysel 2, Aile 4, Kurumsal 8. Bu kota Cisco, Hiddify ve diğer yöntemlerle ortaktır. Planınızın sınırını aştığınızda hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
+Bir hesap istediğiniz kadar cihaza kurulabilir; tek sınır aynı anda kaç cihazın çevrim içi olduğudur: Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64. Bu kota Cisco, Hiddify ve diğer yöntemlerle ortaktır. Planınızın sınırını aştığınızda hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
 
 Bir router tek cihaz sayılır, arkasındaki cihazlar sayılmaz. Evde bir router ya da NAS, üstüne yanınızda taşıdığınız telefon ve dizüstü bilgisayar genellikle yeterlidir.
 
@@ -49,4 +49,4 @@ Bir router tek cihaz sayılır, arkasındaki cihazlar sayılmaz. Evde bir router
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=client-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=client-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=client-08) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=client-08) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

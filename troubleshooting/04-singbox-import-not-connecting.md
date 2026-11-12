@@ -16,7 +16,7 @@ Aldığınız hatayı tabloda bulun. İçe aktarmanın kendisi için [Abonelik b
 
 ## Yenileme, plan değiştirme ya da parola değiştirmeden sonra yeniden içe aktarmak gerekir mi
 
-- **Yenileme ya da plan değiştirme (Bireysel / Aile / Kurumsal)**: Hayır. Mevcut yapılandırma çalışmaya devam eder.
+- **Yenileme ya da plan değiştirme (Temel, Standart, Pro, Elit, Kurumsal, Zirve)**: Hayır. Mevcut yapılandırma çalışmaya devam eder.
 - **Parola değiştirme**: Eski yapılandırma anında çalışmaz olur; QR kodunu yeniden tarayın. Telefonunuzu kaybederseniz ya da bağlantı sızarsa erişimi iptal etmek için bunu kullanın.
 - **Hesabın süresi doldu**: Yapılandırma 401 döndürür. Yeniledikten sonra yeni yapılandırma gerekmez, yeniden bağlanmanız yeterli.
 - **Eylül 2026'dan önce içe aktarılanlar**: IPv6'yı reddeden kural eksiktir; bu yüzden yurt dışından Çin videosu izlerken telif kısıtlaması uyarısı çıkar. Silip yeniden içe aktarın; bkz. [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Aldığınız hatayı tabloda bulun. İçe aktarmanın kendisi için [Abonelik b
 Desteğe üç şey söyleyin: istemcinin adı ve sürümü, bölge ve hatanın tam metni ya da ekran görüntüsü.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=troubleshooting-04) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=troubleshooting-04) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerlidir

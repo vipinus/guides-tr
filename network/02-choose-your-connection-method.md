@@ -9,7 +9,7 @@ Bir LeoTun hesabında altı bağlantı yöntemi vardır: Özel ağ (Tailscale), 
 - Şirketin verdiği, yönetici yetkisi olmayan bilgisayar: Web Proxy. Yalnızca bir tarayıcı eklentisi kurarsınız; yönetici yetkisi gerekmez ve şirketin ağ ayarlarına dokunmaz.
 - iPhone, eski cihazlar: Cisco. Sistemin yerleşik VPN'iyle ya da resmî istemciyle bağlanır, yapılandırma içe aktarmak gerekmez ve uyumluluğu en iyisidir.
 - NAS (Synology, QNAP), Linux sunucular: OpenVPN. Tek bir .ovpn dosyasını içe aktarın, açılışta otomatik bağlanır; bu cihazların çoğunda istemci yerleşik gelir.
-- TV'ler, set üstü kutular, oyun konsolları, yaşlı bir yakının telefonu: Router. Wi‑Fi'ye bağlanan her şey hattan geçer, cihaza hiçbir şey kurmak gerekmez. Üç hesap planı da kullanabilir.
+- TV'ler, set üstü kutular, oyun konsolları, yaşlı bir yakının telefonu: Router. Wi‑Fi'ye bağlanan her şey hattan geçer, cihaza hiçbir şey kurmak gerekmez. Altı ücretli planın hepsi kullanabilir.
 - Bütün bir ailenin ya da ofisin çok sayıda cihazı: Router; bir kez ayarlanır, hepsinde geçerli olur. Dışarıdan evdeki NAS'a da ulaşmak istiyorsanız Özel ağ ekleyin.
 
 ## Ağ ortamına göre: hangi ağdasınız
@@ -62,7 +62,7 @@ Bölünmüş yönlendirmede bir site açılmıyorsa önce geçici olarak "Global
 
 **Oyun ve sesli görüşme için hangisi?** Hiddify, Özel ağ ya da Router; gecikmesi en düşük bölgeyi seçin. Web Proxy yalnızca tarayıcıyla ilgilenir; oyunlar ve görüşme uygulamaları ondan geçmez.
 
-**Altı yöntem aynı anda kullanılabilir mi?** Farklı cihazlarda evet; aynı hesaptaki tüm yöntemler aynı anda çevrim içi kotasını paylaşır (Bireysel 2 cihaz, Aile 4 cihaz, Kurumsal 8 cihaz). Aynı cihazda tüm cihazı kapsayan iki yöntemi aynı anda çalıştırmayın (örneğin Özel ağ ve Cisco); ağ ayarları için çakışırlar.
+**Altı yöntem aynı anda kullanılabilir mi?** Farklı cihazlarda evet; aynı hesaptaki tüm yöntemler aynı anda çevrim içi kotasını paylaşır (Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64 cihaz). Aynı cihazda tüm cihazı kapsayan iki yöntemi aynı anda çalıştırmayın (örneğin Özel ağ ve Cisco); ağ ayarları için çakışırlar.
 
 **Router ile istemci arasında seçim yapmak zorunda mıyım?** Hayır. Evde router'ı kullanın, dışarı çıkınca telefonunuzda istemciyi açın; her biri bir cihaz sayılır.
 
@@ -78,4 +78,4 @@ Bölünmüş yönlendirmede bir site açılmıyorsa önce geçici olarak "Global
 Bu yazının sitedeki sürümü: https://www.leotun.com/tr/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-02) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-02) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

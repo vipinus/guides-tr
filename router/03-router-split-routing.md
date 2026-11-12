@@ -41,9 +41,9 @@ Yurt dışından Çin'e erişim yönü değişmedi.
 - **Bağlandıktan sonra yazıcıya ya da NAS'a ulaşılamıyor**: Bu, yerel ağ adreslerinin de dışarı gönderildiği anlamına gelir. Bölünmüş yönlendirme kurallarının 192.168.x.x gibi özel adres aralıklarını hariç tutup tutmadığını kontrol edin.
 - **Router'ın performansı** tavanı belirler. Eski bir router'ın işlemcisi şifreli trafikte tam yüke çıkar; bu da tüm evin yavaşlaması olarak görülür. Bu durumda sorun VPN hattında değildir.
 
-## Bir hesap, bir router
+## Hesap ve router eşleştirme
 
-Çoğu hizmet router'ı hesaba (MAC adresiyle) bağlar. Bir hesap bir router'a bağlanır; router değiştirirken önce bağlantıyı kaldırırsınız. Böylece hesap yalnızca size ait kalır.
+Çoğu hizmet router'ı hesaba (MAC adresiyle) bağlar. Bizde bir hesap plana göre 1 ile 6 arası router'a bağlanır; sınır doluyken router değiştirirseniz önce bağlantıyı kaldırırsınız. Böylece hesap yalnızca size ait kalır.
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=router-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=router-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya

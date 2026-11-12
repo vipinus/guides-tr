@@ -26,9 +26,9 @@
 
 ## Süre dolması ve cihaz sayısı
 
-Bir cihazın giriş geçerliliği hesabın bitiş tarihini izler; süre dolduktan birkaç dakika sonra çevrim dışı olur, yeniledikten sonra yeniden giriş yapmanız yeterlidir. Aynı anda çevrim içi cihaz sayısı plana bağlıdır (Bireysel 2 cihaz, Aile 4 cihaz, Kurumsal 8 cihaz) ve kota diğer bağlantı yöntemleriyle ortaktır; aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
+Bir cihazın giriş geçerliliği hesabın bitiş tarihini izler; süre dolduktan birkaç dakika sonra çevrim dışı olur, yeniledikten sonra yeniden giriş yapmanız yeterlidir. Aynı anda çevrim içi cihaz sayısı plana bağlıdır (Temel 2, Standart 4, Pro 8, Elit 16, Kurumsal 32, Zirve 64 cihaz) ve kota diğer bağlantı yöntemleriyle ortaktır; aynı anda çevrim içi sayısı planın sınırını aştığında hesap türünü geçici olarak yükseltebilir (kalan süre fiyata göre eşdeğer değerde dönüştürülür), işiniz bitince geri dönebilirsiniz.
 
 Kurulum ve giriş adımları için bkz. [İstemci rehberi 05](../client/05-tailscale-private-network.md).
 
 ---
-[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Bireysel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
+[LeoTun](https://www.leotun.com/tr?utm_source=github&utm_content=network-03) ekibi hazırladı · Sorunuz mu var? [İletişim sayfasına](https://www.leotun.com/tr/contact?utm_source=github&utm_content=network-03) bakın (gruplar, e-posta ve destek orada listeleniyor) · Kaydolun, 30 dakika ücretsiz deneyin; davet ettiğiniz bir arkadaşınız ödeme yaparsa ikiniz de 15'er puan (Temel planda yaklaşık 15 gün) kazanırsınız, süresiz geçerli bir kampanya
